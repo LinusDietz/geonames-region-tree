@@ -1,6 +1,7 @@
 # Region Tree of the World
 
 [![Build Status](https://travis-ci.com/lynyus/geonames-region-tree.svg?token=3xSpCxqKzHnH2NXbgTwq&branch=master)](https://travis-ci.com/lynyus/geonames-region-tree)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d8d949fa71ee4d188f1f97b58efcfff9)](https://www.codacy.com/app/lynyus/geonames-region-tree?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=lynyus/geonames-region-tree&amp;utm_campaign=Badge_Grade)
 
 Builds a region tree using the [GeoNames API](http://www.geonames.org).
 
