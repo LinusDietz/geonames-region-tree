@@ -1,2 +1,3 @@
 xmltodict
+coverage
 codacy-coverage
