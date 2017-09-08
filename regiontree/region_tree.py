@@ -20,10 +20,6 @@ class RegionTree:
                 countries_of_the_world.append(country)
         return countries_of_the_world
 
-    def get_element(self, geoname_id: int) -> str:
-        raw_result = self.api.name(geoname_id)
-        return raw_result['geoname']['name']
-
     def build_world_tree(self) -> Region:
         region_tree = EARTH
         for continent in self.get_children():
