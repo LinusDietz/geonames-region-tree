@@ -16,7 +16,8 @@ class RegionTree:
     def get_countries(self) -> list():
         countries_of_the_world = list()
         for continent in self.get_children():
-            [countries_of_the_world.append(country) for country in self.get_children(continent)]
+            for country in self.get_children(continent):
+                countries_of_the_world.append(country)
         return countries_of_the_world
 
     def get_element(self, geoname_id: int) -> str:
