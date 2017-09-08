@@ -51,3 +51,22 @@ class GeonamesAPI:
                 return True
         except KeyError:
             return False
+
+    def reverse_region(self, point: Coordinate) -> str:
+
+        raw_dict = xmltodict.parse(urllib.request.urlopen(f"{self.base_url}countrySubdivision?lat={point.latitude}&lng={point.longitude}&username={self.user}"))
+        try:
+            return raw_dict['geonames']['countrySubdivision']['adminName1']
+        except KeyError:
+            # Retry with country
+            try:
+                return raw_dict['geonames']['countrySubdivision']['countryName']
+            except KeyError:
+                return None
+
+    def geoname_id_of(self, name: str) -> int:
+        raw_dict = xmltodict.parse(urllib.request.urlopen(f"{self.base_url}search?q={name.replace(' ', '-')}&maxRows=1&username={self.user}"))
+        try:
+            return int(raw_dict['geonames']['geoname']['geonameId'])
+        except KeyError:
+            return None

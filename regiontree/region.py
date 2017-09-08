@@ -1,5 +1,5 @@
 class Coordinate:
-    def __init__(self, lat: str, lng: str):
+    def __init__(self, lat: float, lng: float):
         self.latitude = lat
         self.longitude = lng
 
