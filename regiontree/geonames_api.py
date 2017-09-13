@@ -13,14 +13,14 @@ class GeonamesAPI:
         self.logging = logging
         self.user = user
 
-    def do_api_call(self, api: str, geoname_id: int) -> tuple:
+    def do_id_api_call(self, api: str, geoname_id: int) -> tuple:
         sleep(self.throttle)
         raw_dict = xmltodict.parse(urllib.request.urlopen(self.base_url + "%s?geonameId=%s&username=%s" % (api, geoname_id, self.user)).read())
         return self.log_status_message(raw_dict), raw_dict
 
     def children(self, geoname_id: int) -> set():
         result = set()
-        failure, raw_result = self.do_api_call('children', geoname_id)
+        failure, raw_result = self.do_id_api_call('children', geoname_id)
 
         if failure or raw_result['geonames']['totalResultsCount'] == '0':
             return result
@@ -38,7 +38,7 @@ class GeonamesAPI:
         return result
 
     def name(self, geoname_id: int) -> dict:
-        return self.do_api_call('get', geoname_id)[1]
+        return self.do_id_api_call('get', geoname_id)[1]
 
     def log_status_message(self, raw_dict) -> bool:
         try:

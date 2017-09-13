@@ -12,3 +12,5 @@ if __name__ == '__main__':
 
     world_tree = RegionTree(GeonamesAPI(throttle, logging, geonames_user))
     world_tree.print_region_tree()
+    world_tree.dot_country_tree()
+    world_tree.dot_continent_trees()
