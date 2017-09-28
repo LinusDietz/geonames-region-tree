@@ -1,5 +1,5 @@
-from regiontree.geonames_api import GeonamesAPI
-from regiontree.region import Region, Coordinate
+from geonames_api.geonames_api import GeonamesAPI
+from geonames_api.model.region import Region, Coordinate
 
 EARTH = Region(6295630, 'Earth', 'Earth', Coordinate(0, 0))
 

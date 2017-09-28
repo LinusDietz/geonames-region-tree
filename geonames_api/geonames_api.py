@@ -3,7 +3,7 @@ from time import sleep
 
 import xmltodict
 
-from regiontree.region import Region, Coordinate
+from geonames_api.model.region import Region, Coordinate
 
 
 class GeonamesAPI:

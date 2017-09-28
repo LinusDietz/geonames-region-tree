@@ -1,7 +1,7 @@
 import logging
 import os
 
-from regiontree.geonames_api import GeonamesAPI
+from geonames_api.geonames_api import GeonamesAPI
 from regiontree.region_tree import RegionTree
 
 logging.basicConfig(filename='API_failures.log', format='%(asctime)s %(levelname)s: %(message)s', filemode='w', level=logging.DEBUG)

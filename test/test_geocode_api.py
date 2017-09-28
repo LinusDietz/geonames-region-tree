@@ -2,8 +2,8 @@ import logging
 import os
 import unittest
 
-from regiontree.geonames_api import GeonamesAPI
-from regiontree.region import Coordinate
+from geonames_api.geonames_api import GeonamesAPI
+from geonames_api.model.region import Coordinate
 
 logging.basicConfig(format='%(asctime)s %(levelname)s: %(message)s', level=logging.DEBUG)
 
