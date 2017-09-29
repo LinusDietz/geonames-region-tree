@@ -1,34 +1,46 @@
 from geonames_api.geonames_api import GeonamesAPI
 from geonames_api.model.region import Region, Coordinate
 
-EARTH = Region(6295630, 'Earth', 'Earth', Coordinate(0, 0))
-
 
 class RegionTree:
     def __init__(self, api: GeonamesAPI):
+        self.EARTH = Region(6295630, 'Earth', 'Earth', Coordinate(0, 0))
+
         self.api = api
         self.tree = self.build_world_tree()
 
-    def get_children(self, region: Region = EARTH) -> set():
+    def get_region(self, geoname_id) -> Region:
+        if geoname_id == self.EARTH.geoname_id:
+            return self.EARTH
+        for continent in self.tree.children:
+            if geoname_id == continent.geoname_id:
+                return continent
+            for country in continent.children:
+                if geoname_id == country.geoname_id:
+                    return country
+                for state in country.children:
+                    if geoname_id == state.geoname_id:
+                        return state
+        raise ValueError(f"Could not find any region with id == {geoname_id} in the region tree!")
 
+    def get_children(self, region: Region) -> set:
         return self.api.children(region.geoname_id)
 
-    def get_countries(self) -> list():
+    def get_countries(self) -> list:
         countries_of_the_world = list()
-        for continent in self.get_children():
+        for continent in self.get_children(self.EARTH):
             for country in self.get_children(continent):
                 countries_of_the_world.append(country)
         return countries_of_the_world
 
     def build_world_tree(self) -> Region:
-        region_tree = EARTH
-        for continent in self.get_children():
-            region_tree.add_children(continent)
+        for continent in self.get_children(self.EARTH):
+            self.EARTH.add_children(continent)
             for country in self.get_children(continent):
                 continent.add_children(country)
                 for state in self.get_children(country):
                     country.add_children(state)
-        return EARTH
+        return self.EARTH
 
     def print_region_tree(self, out_file='worldtree.txt'):
         number_countries: int = 0
@@ -59,7 +71,7 @@ class RegionTree:
         with open(out_file, 'w', 1, "UTF-8", 'strict') as tree_file:
             print('digraph worldtree {', file=tree_file)
             for continent in self.tree:
-                print(f'"{EARTH}" -> "{continent}";', file=tree_file)
+                print(f'"{self.EARTH}" -> "{continent}";', file=tree_file)
                 for country in continent:
                     print(f'"{continent}" -> "{country}";', file=tree_file)
             print('}', file=tree_file)
@@ -72,7 +84,7 @@ class RegionTree:
         for continent in self.tree:
             with open(f'{continent}.dot', 'w', 1, "UTF-8", 'strict') as tree_file:
                 print(f'digraph {continent} {{', file=tree_file)
-                print(f'"{EARTH}" -> "{continent}";', file=tree_file)
+                print(f'"{self.EARTH}" -> "{continent}";', file=tree_file)
                 for country in continent:
                     print(f'"{continent}" -> "{country}";', file=tree_file)
                     for state in country:

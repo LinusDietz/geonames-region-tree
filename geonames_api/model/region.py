@@ -1,3 +1,7 @@
+import functools
+import operator
+
+
 class Coordinate:
     def __init__(self, lat: float, lng: float):
         self.latitude = lat
@@ -26,3 +30,13 @@ class Region:
 
     def __len__(self):
         return len(self.children)
+
+    def __hash__(self) -> int:
+        hashes = map(hash, (self.geoname_id, self.name, self.toponym_name, self.position))
+        return functools.reduce(operator.xor, hashes)
+
+    def __eq__(self, other):
+        if self is other:
+            return True
+        if isinstance(other, self.__class__):
+            return self.geoname_id == other.geoname_id

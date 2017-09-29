@@ -7,10 +7,10 @@ from geonames_api.model.region import Coordinate
 
 logging.basicConfig(format='%(asctime)s %(levelname)s: %(message)s', level=logging.DEBUG)
 
-api = GeonamesAPI(1, logging, os.environ['GEONAMES_KEY'])
+api = GeonamesAPI(0.1, logging, os.environ['GEONAMES_KEY'])
 
 
-class TestGeocodeAPI(unittest.TestCase):
+class TestGeonamesAPI(unittest.TestCase):
     def test_reverse_tyrol(self):
         self.assertEqual('Tyrol', api.reverse_region(Coordinate(47.0, 10.2)))
 
@@ -37,3 +37,6 @@ class TestGeocodeAPI(unittest.TestCase):
 
     def test_get_id_papua_new_guinea(self):
         self.assertEqual(2088628, api.geoname_id_of('Papua New Guinea'))
+
+    def test_get_state_kansas(self):
+        self.assertEqual(4273857, api.reverse_region_geoname_id(Coordinate(38.451545, -100.428978)))
