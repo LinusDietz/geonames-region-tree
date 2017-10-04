@@ -1,0 +1,4133 @@
+Earth
+  Europe
+    Germany
+      Hamburg
+      Brandenburg
+      Rheinland-Pfalz
+      Schleswig-Holstein
+      Thuringia
+      Bremen
+      Bavaria
+      Hesse
+      Saarland
+      Land Berlin
+      Saxony-Anhalt
+      Lower Saxony
+      Baden-Württemberg
+      North Rhine-Westphalia
+      Mecklenburg-Vorpommern
+      Saxony
+    Denmark
+      South Denmark
+      Zealand
+      Central Jutland
+      North Denmark
+      Capital Region
+    Netherlands
+      Provincie Utrecht
+      Provincie Drenthe
+      Provincie Gelderland
+      Provincie Zeeland
+      North Holland
+      Groningen
+      North Brabant
+      Provincie Flevoland
+      Limburg
+      Provincie Overijssel
+      South Holland
+      Friesland
+    San Marino
+      Chiesanuova
+      Castello di Borgo Maggiore
+      Castello di Domagnano
+      Castello di Montegiardino
+      Castello di San Marino Città
+      Serravalle
+      Castello di Acquaviva
+      Castello di Fiorentino
+      Castello di Faetano
+    Ireland
+      Leinster
+      Connaught
+      Ulster
+      Munster
+    Czechia
+      Hlavní město Praha
+      South Moravian
+      Moravskoslezský kraj
+      Jihočeský kraj
+      Pardubický kraj
+      Kraj Vysočina
+      Královéhradecký kraj
+      Olomoucký kraj
+      Central Bohemia
+      Karlovarský kraj
+      Zlín
+      Ústecký kraj
+      Plzeňský kraj
+      Liberecký kraj
+    Estonia
+      Saare
+      Tartu
+      Jõgevamaa
+      Ida-Virumaa
+      Põlvamaa
+      Lääne-Virumaa
+      Hiiumaa
+      Viljandimaa
+      Järvamaa
+      Harjumaa
+      Valgamaa
+      Lääne
+      Raplamaa
+      Pärnumaa
+      Võrumaa
+    Luxembourg
+      Luxembourg
+      Capellen
+      Clervaux
+      Wiltz
+      Redange
+      Esch-sur-Alzette
+      Remich
+      Vianden
+      Mersch
+      Grevenmacher
+      Diekirch
+      Echternach
+    Romania
+      Covasna
+      Judeţul Braşov
+      Maramureş
+      Giurgiu
+      Judeţul Caraş-Severin
+      Satu Mare
+      Bihor
+      Judeţul Cluj
+      Teleorman
+      Judeţul Iaşi
+      Gorj
+      Suceava
+      Vaslui
+      Judeţul Sibiu
+      Tulcea
+      Dolj
+      Judeţul Timiş
+      București
+      Judeţul Dâmboviţa
+      Olt
+      Judeţul Brăila
+      Judeţul Botoşani
+      Judeţul Buzău
+      Judeţul Mehedinţi
+      Judeţul Galaţi
+      Judeţul Bistriţa-Năsăud
+      Judeţul Argeş
+      Judeţul Neamţ
+      Judeţul Bacău
+      Judeţul Vâlcea
+      Vrancea
+      Harghita
+      Hunedoara
+      Prahova
+      Constanța
+      Judeţul Mureş
+      Judeţul Alba
+      Judeţul Călăraşi
+      Judeţul Ialomiţa
+      Arad
+      Ilfov
+      Judeţul Sălaj
+    Cyprus
+      Ammochostos
+      Keryneia
+      Pafos
+      Nicosia
+      Limassol
+      Larnaka
+    Spain
+      Valencia
+      Balearic Islands
+      Ceuta
+      Canary Islands
+      Melilla
+      Murcia
+      Catalonia
+      Aragon
+      Cantabria
+      Extremadura
+      La Rioja
+      Navarre
+      Castille-La Mancha
+      Andalusia
+      Galicia
+      Asturias
+      Basque Country
+      Madrid
+      Castille and León
+    France
+      Grand-Est
+      Île-de-France
+      Auvergne-Rhône-Alpes
+      Brittany
+      Centre-Val de Loire
+      Normandy
+      Occitanie
+      Pays de la Loire
+      Hauts-de-France
+      Provence-Alpes-Côte d'Azur
+      Bourgogne-Franche-Comté
+      Nouvelle-Aquitaine
+      Corsica
+    Austria
+      Salzburg
+      Upper Austria
+      Styria
+      Burgenland
+      Vorarlberg
+      Carinthia
+      Tyrol
+      Lower Austria
+      Vienna
+    Åland
+      Mariehamns stad
+      Ålands skärgård
+      Ålands landsbygd
+    Bulgaria
+      Sofia-Capital
+      Oblast Dobrich
+      Oblast Kyustendil
+      Varna
+      Burgas
+      Plovdiv
+      Pernik
+      Oblast Ruse
+      Oblast Vratsa
+      Oblast Kardzhali
+      Oblast Yambol
+      Pazardzhik
+      Oblast Pleven
+      Oblast Veliko Tarnovo
+      Sofia
+      Oblast Vidin
+      Haskovo
+      Oblast Stara Zagora
+      Oblast Razgrad
+      Oblast Montana
+      Gabrovo
+      Lovech
+      Oblast Targovishte
+      Oblast Silistra
+      Oblast Shumen
+      Blagoevgrad
+      Oblast Smolyan
+      Oblast Sliven
+    Portugal
+      Portalegre
+      Madeira
+      Coimbra
+      Faro
+      Lisbon
+      Porto
+      Santarém
+      Setúbal
+      Vila Real
+      Évora
+      Braga
+      Aveiro
+      Guarda
+      Azores
+      Viana do Castelo
+      Castelo Branco
+      Viseu
+      Beja
+      Leiria
+      Bragança
+    Poland
+      Podkarpackie Voivodeship
+      Łódź Voivodeship
+      Greater Poland
+      Podlasie
+      Świętokrzyskie
+      Opole Voivodeship
+      Lublin
+      Lesser Poland Voivodeship
+      Kujawsko-Pomorskie
+      Silesia
+      Warmia-Masuria
+      Pomerania
+      Lower Silesia
+      West Pomerania
+      Lubusz
+      Mazovia
+    Gibraltar
+    Croatia
+      Šibensko-Kninska Županija
+      Bjelovarsko-Bilogorska Županija
+      Zagreb County
+      Dubrovačko-Neretvanska Županija
+      Split-Dalmatia
+      Zadarska Županija
+      Vukovar-Sirmium
+      Virovitičko-Podravska Županija
+      Varaždinska Županija
+      Slavonski Brod-Posavina
+      Primorsko-Goranska Županija
+      Sisačko-Moslavačka Županija
+      Istria
+      Osječko-Baranjska Županija
+      Požeško-Slavonska Županija
+      Krapinsko-Zagorska Županija
+      Koprivničko-Križevačka Županija
+      Ličko-Senjska Županija
+      Karlovačka Županija
+      Međimurska Županija
+      City of Zagreb
+    United Kingdom
+      England
+      Northern Ireland
+      Wales
+      Scotland
+    Malta
+      Balzan
+      L-Imtarfa
+      Ix-Xewkija
+      Il-Ħamrun
+      Ix-Xagħra
+      Attard
+      Is-Swieqi
+      Ix-Xgħajra
+      Iż-Żebbuġ
+      Birkirkara
+      L-Imsida
+      Ta’ Xbiex
+      Victoria
+      Lija
+      In-Nadur
+      Ħaż-Żabbar
+      Il-Munxar
+      Ta’ Kerċem
+      L-Isla
+      Tal-Pietà
+      In-Naxxar
+      L-Imġarr
+      L-Għarb
+      Marsaxlokk
+      Paola
+      Tarxien
+      Sannat
+      Ħal Għargħur
+      Ir-Rabat
+      Is-Siġġiewi
+      Luqa
+      Ħal Għaxaq
+      Tas-Sliema
+      Marsaskala
+      Saint Lawrence
+      Il-Gudja
+      Il-Marsa
+      Il-Furjana
+      Il-Fontana
+      Saint Lucia
+      Il-Mellieħa
+      Il-Gżira
+      Il-Birgu
+      Saint Venera
+      Saint Paul’s Bay
+      Il-Fgura
+      Kirkop
+      Qormi
+      Pembroke
+      Il-Kalkara
+      Iż-Żurrieq
+      Il-Qrendi
+      Għajnsielem
+      L-Għasri
+      L-Iklin
+      Dingli
+      Il-Qala
+      Il-Belt Valletta
+      L-Imdina
+      Bormla
+      Il-Mosta
+      L-Imqabba
+      Safi
+      Saint John
+      Ħaż-Żebbuġ
+      Birżebbuġa
+      Iż-Żejtun
+      Saint Julian
+    Switzerland
+      Appenzell Ausserrhoden
+      Schaffhausen
+      Obwalden
+      Saint Gallen
+      Schwyz
+      Vaud
+      Nidwalden
+      Zug
+      Solothurn
+      Glarus
+      Grisons
+      Jura
+      Basel-Landschaft
+      Aargau
+      Bern
+      Basel-City
+      Appenzell Innerrhoden
+      Geneva
+      Thurgau
+      Uri
+      Zurich
+      Ticino
+      Lucerne
+      Neuchâtel
+      Fribourg
+      Valais
+    Monaco
+      Commune de Monaco
+    Slovenia
+      Dobrepolje
+      Občina Tržič
+      Vrhnika
+      Občina Tišina
+      Kungota
+      Občina Železniki
+      Dornava
+      Radenci
+      Občina Križevci
+      Občina Škofljica
+      Gornji Petrovci
+      Občina Apače
+      Ribnica
+      Puconci
+      Občina Žalec
+      Rogatec
+      Občina Sveti Andraž v Slovenskih Goricah
+      Beltinci
+      Kostanjevica na Krki
+      Jezersko
+      Občina Trnovska vas
+      Cirkulane
+      Občina Hoče-Slivnica
+      Lenart
+      Postojna
+      Kuzma
+      Kamnik
+      Občina Moravče
+      Kozje
+      Ljubno
+      Občina Šempeter-Vrtojba
+      Duplek
+      Občina Miklavž na Dravskem Polju
+      Mokronog-Trebelno
+      Občina Šmarje pri Jelšah
+      Mozirje
+      Občina Veržej
+      Občina Žiri
+      Radlje ob Dravi
+      Pivka
+      Sveta Trojica v Slovenskih Goricah
+      Občina Šalovci
+      Lukovica
+      Občina Sežana
+      Osilnica
+      Mestna Občina Novo mesto
+      Občina Divača
+      Občina Luče
+      Mislinja
+      Ptuj
+      Občina Mirna Peč
+      Slovenj Gradec
+      Kobilje
+      Občina Kobarid
+      Slovenska Bistrica
+      Slovenske Konjice
+      Občina Krško
+      Velenje
+      Občina Razkrižje
+      Nazarje
+      Občina Mengeš
+      Občina Velike Lašče
+      Občina Šmartno pri Litiji
+      Občina Šenčur
+      Makole
+      Zagorje ob Savi
+      Koper
+      Občina Loška Dolina
+      Ljutomer
+      Muta
+      Občina Loški Potok
+      Vitanje
+      Občina Domžale
+      Moravske Toplice
+      Kranj
+      Logatec
+      Metlika
+      Občina Žetale
+      Občina Žužemberk
+      Vojnik
+      Hrastnik
+      Murska Sobota
+      Občina Sodražica
+      Videm
+      Oplotnica
+      Občina Ormož
+      Dobje
+      Piran
+      Dobrovnik
+      Kostel
+      Podvelka
+      Trbovlje
+      Celje
+      Maribor
+      Občina Tolmin
+      Bohinj
+      Občina Renče-Vogrsko
+      Polzela
+      Občina Solčava
+      Destrnik
+      Naklo
+      Podlehnik
+      Mirna
+      Cerklje na Gorenjskem
+      Borovnica
+      Lendava
+      Občina Laško
+      Občina Rečica ob Savinji
+      Ilirska Bistrica
+      Vuzenica
+      Občina Središče ob Dravi
+      Sevnica
+      Občina Straža
+      Prebold
+      Ig
+      Hrpelje-Kozina
+      Občina Ivančna Gorica
+      Dobrna
+      Dolenjske Toplice
+      Občina Žirovnica
+      Prevalje
+      Miren-Kostanjevica
+      Vodice
+      Medvode
+      Občina Bovec
+      Vipava
+      Občina Sveti Jurij ob Ščavnici
+      Občina Šmarješke Toplice
+      Litija
+      Komen
+      Občina Bled
+      Občina Poljčane
+      Grad
+      Občina Gorišnica
+      Trebnje
+      Brezovica
+      Cerkno
+      Sveti Jurij v Slovenskih Goricah
+      Občina Majšperk
+      Občina Črna na Koroškem
+      Selnica ob Dravi
+      Comune di Ancarano
+      Občina Škocjan
+      Škofja Loka
+      Brda
+      Idrija
+      Občina Zreče
+      Lovrenc na Pohorju
+      Kanal
+      Ribnica na Pohorju
+      Cerknica
+      Občina Šentjernej
+      Sentjur
+      Občina Mežica
+      Jesenice
+      Občina Rače-Fram
+      Občina Šmartno ob Paki
+      Občina Štore
+      Hajdina
+      Horjul
+      Dobrova-Polhov Gradec
+      Grosuplje
+      Markovci
+      Gornja Radgona
+      Radovljica
+      Odranci
+      Občina Ravne na Koroškem
+      Dravograd
+      Bloke
+      Gornji Grad
+      Občina Radeče
+      Občina Šoštanj
+      Bistrica ob Sotli
+      Občina Šentrupert
+      Log–Dragomer
+      Nova Gorica
+      Tabor
+      Benedikt
+      Hodos
+      Sveta Ana
+      Občina Kočevje
+      Občina Starše
+      Občina Semič
+      Občina Sveti Tomaž
+      Trzin
+      Cerkvenjak
+      Pesnica
+      Občina Podčetrtek
+      Kranjska Gora
+      Občina Ruše
+      Cankova
+      Izola
+      Preddvor
+      Gorenja Vas-Poljane
+      Velika Polana
+      Komenda
+      Občina Braslovče
+      Gorje
+      Vransko
+      Dol pri Ljubljani
+    Faroe Islands
+      Sandoy
+      Vágar
+      Streymoy
+      Norðoyar
+      Suðuroy
+      Eysturoy
+    Hungary
+      Győr-Moson-Sopron
+      Bács-Kiskun
+      Tolna megye
+      Hajdú-Bihar
+      Nógrád megye
+      Csongrád megye
+      Bekes
+      Baranya
+      Heves megye
+      Pest megye
+      Jász-Nagykun-Szolnok
+      Somogy megye
+      Fejér
+      Komárom-Esztergom
+      Vas
+      Borsod-Abaúj-Zemplén
+      Veszprém megye
+      Szabolcs-Szatmár-Bereg
+      Zala
+      Budapest
+    Bosnia and Herzegovina
+      Brčko
+      Federation of B&H
+      Republika Srpska
+    Iceland
+      South
+      Westfjords
+      East
+      West
+      Capital Region
+      Southern Peninsula
+      Northeast
+      Northwest
+    Kosovo
+      Pristina
+      Prizren
+      Mitrovica
+      Ferizaj
+      Gjilan
+      Gjakova
+      Pec
+    Serbia
+      Vojvodina
+      Central Serbia
+    Macedonia
+      Opština Štip
+      Opština Želino
+      Aerodrom
+      Oslomej
+      Opština Vrapčište
+      Prilep
+      Opština Vraneštica
+      Opština Kruševo
+      Rosoman
+      Mogila
+      Opština Centar
+      Plasnica
+      Opština Krivogaštani
+      Opština Kočani
+      Petrovec
+      Češinovo-Obleševo
+      Opština Kičevo
+      Saraj
+      Struga
+      Sveti Nikole
+      Tearce
+      Tetovo
+      Opština Karpoš
+      Strumica
+      Opština Pehčevo
+      Opstina Lipkovo
+      Opština Probištip
+      Opština Konče
+      Butel
+      Opština Vevčani
+      Opština Delčevo
+      Opština Studeničani
+      Opština Staro Nagoričane
+      Opština Radoviš
+      Opština Sopište
+      Opština Čučer-Sandevo
+      Opština Centar Župa
+      Debarca
+      Debar
+      Brvenica
+      Demir Hisar
+      Kumanovo
+      Karbinci
+      Opstina Gjorce Petrov
+      Gradsko
+      Čaška Municipality
+      Mavrovo and Rostuša
+      Resen
+      Bogovinje
+      Čair
+      Grad Skopje
+      Kriva Palanka
+      Demir Kapija
+      Zelenikovo
+      Kisela Voda
+      Kratovo
+      Makedonski Brod
+      Opstina Rankovce
+      Valandovo
+      Kavadarci
+      Veles
+      Bosilovo
+      Zajas
+      Novaci
+      Novo Selo
+      Jegunovce
+      Vinica
+      Negotino
+      Zrnovci
+      Ilinden
+      Gevgelija
+      Opština Aračinovo
+      Bitola
+      Bogdanci
+      Dolneni
+      Makedonska Kamenica
+      Berovo
+      Šuto Orizari
+      Drugovo
+      Lozovo
+      Vasilevo
+      Gostivar
+      Opština Dojran
+      Ohrid
+      Gazi Baba
+    Norway
+      Sogn og Fjordane Fylke
+      Buskerud
+      Møre og Romsdal fylke
+      Hordaland Fylke
+      Oslo County
+      Sør-Trøndelag Fylke
+      Telemark
+      Akershus
+      Finnmark
+      Østfold county
+      Oppland
+      Nord-Trøndelag Fylke
+      Nordland Fylke
+      Hedmark
+      Vest-Agder Fylke
+      Vestfold
+      Troms Fylke
+      Aust-Agder
+      Rogaland Fylke
+    Moldova
+      Hînceşti
+      Donduşeni
+      Raionul Edineţ
+      Cahul
+      Rezina
+      Raionul Dubăsari
+      Rîşcani
+      Teleneşti
+      Basarabeasca
+      Sîngerei
+      Taraclia
+      Găgăuzia
+      Glodeni
+      Drochia
+      Chișinău Municipality
+      Strășeni
+      Ialoveni
+      Raionul Ocniţa
+      Cimişlia
+      Raionul Ştefan Vodă
+      Unitatea Teritorială din Stînga Nistrului
+      Floreşti
+      Bender Municipality
+      Briceni
+      Nisporeni
+      Anenii Noi
+      Raionul Căuşeni
+      Criuleni
+      Raionul Soroca
+      Ungheni
+      Leova
+      Raionul Călăraşi
+      Orhei
+      Şoldăneşti
+      Cantemir
+      Făleşti
+      Municipiul Bălţi
+    Svalbard and Jan Mayen
+    Lithuania
+      Vilnius
+      Telsiai
+      Tauragė County
+      Klaipėda County
+      Panevėžys
+      Kaunas
+      Alytus
+      Siauliai
+      Utena
+      Marijampolė County
+    Sweden
+      Norrbotten
+      Blekinge
+      Jämtland
+      Västernorrland
+      Västra Götaland
+      Östergötland
+      Gävleborg
+      Västerbotten
+      Södermanland
+      Örebro
+      Västmanland
+      Stockholm
+      Dalarna
+      Jönköping
+      Kronoberg
+      Skåne
+      Uppsala
+      Gotland
+      Kalmar
+      Halland
+      Värmland
+    Belarus
+      Mogilev
+      Minsk
+      Vitebsk
+      Gomel
+      Minsk City
+      Grodnenskaya
+      Brest
+    Montenegro
+      Bar
+      Andrijevica
+      Budva
+      Opština Nikšić
+      Ulcinj
+      Opština Žabljak
+      Opština Kolašin
+      Petnjica
+      Kotor
+      Opština Šavnik
+      Opština Rožaje
+      Danilovgrad
+      Opština Plužine
+      Bijelo Polje
+      Gusinje
+      Tivat
+      Pljevlja
+      Cetinje
+      Herceg Novi
+      Mojkovac
+      Podgorica
+      Opština Plav
+      Berane
+    Belgium
+      Flanders
+      Brussels Capital
+      Wallonia
+    Russia
+      Altai
+      Vladimirskaya Oblast’
+      Sverdlovskaya Oblast’
+      Transbaikal Territory
+      Omskaya Oblast’
+      Volgogradskaya Oblast’
+      Bashkortostan
+      Altai Krai
+      Bryanskaya Oblast’
+      Dagestan
+      Respublika Mordoviya
+      Khabarovsk
+      Respublika Adygeya
+      St.-Petersburg
+      Ivanovskaya Oblast’
+      North Ossetia
+      Khanty-Mansia
+      Saratovskaya Oblast’
+      Perm Krai
+      Kabardino-Balkarskaya Respublika
+      Kostromskaya Oblast’
+      Primorskiy Kray
+      Astrakhanskaya Oblast’
+      Kemerovskaya Oblast’
+      Penzenskaya Oblast’
+      Chukotka
+      Tatarstan
+      Respublika Ingushetiya
+      Belgorodskaya Oblast’
+      Krasnodarskiy Kray
+      Republic of Tyva
+      Orlovskaya Oblast’
+      Krasnoyarskiy Kray
+      Tverskaya Oblast’
+      Voronezhskaya Oblast’
+      Chechnya
+      Samarskaya Oblast’
+      Kaluzhskaya Oblast’
+      Kamtchatski Kray
+      Yamalo-Nenets
+      Kurskaya Oblast’
+      Amurskaya Oblast’
+      Leningradskaya Oblast'
+      Moscow
+      Respublika Khakasiya
+      Vologodskaya Oblast’
+      Arkhangelskaya
+      Tyumenskaya Oblast’
+      Jewish Autonomous Oblast
+      Chukot
+      Irkutskaya Oblast’
+      Murmansk
+      Lipetskaya Oblast’
+      Udmurtskaya Respublika
+      Chuvashia
+      Moscow Oblast
+      Chelyabinsk
+      Novgorodskaya Oblast’
+      Orenburgskaya Oblast’
+      Ryazanskaya Oblast’
+      Kalmykiya
+      Novosibirskaya Oblast’
+      Ulyanovsk
+      Kaliningradskaya Oblast’
+      Rostov
+      Komi
+      Pskovskaya Oblast’
+      Kirovskaya Oblast’
+      Karelia
+      Nizhegorodskaya Oblast’
+      Respublika Mariy-El
+      Tambovskaya Oblast’
+      Tul’skaya Oblast’
+      Tomskaya Oblast’
+      Kurganskaya Oblast’
+      Karachayevo-Cherkesiya
+      Nenets
+      Respublika Buryatiya
+      Smolenskaya Oblast’
+      Sakhalinskaya Oblast’
+      Magadanskaya Oblast’
+      Yaroslavskaya Oblast’
+      Stavropol’skiy Kray
+    Slovakia
+      Trencin
+      Presov
+      Nitra
+      Banska Bystrica
+      Bratislava
+      Kosice
+      Zilina
+      Trnava
+    Albania
+      Qarku i Korçës
+      Qarku i Tiranës
+      Qarku i Elbasanit
+      Qarku i Gjirokastrës
+      Qarku i Beratit
+      Qarku i Lezhës
+      Qarku i Shkodrës
+      Qarku i Vlorës
+      Qarku i Dibrës
+      Qarku i Kukësit
+      Qarku i Durrësit
+      Qarku i Fierit
+    Ukraine
+      Volyns’ka Oblast’
+      Kropyvnytskyi
+      L’vivs’ka Oblast’
+      Chernivtsi
+      Dnipro
+      Khersons’ka Oblast’
+      Sums’ka Oblast’
+      Vinnyts’ka Oblast’
+      Rivnens’ka Oblast’
+      Chernihiv
+      Cherkas’ka Oblast’
+      Donets’ka Oblast’
+      Kharkivs’ka Oblast’
+      Ivano-Frankivs’ka Oblast’
+      Zhytomyrs’ka Oblast’
+      Poltavs’ka Oblast’
+      Khmel’nyts’ka Oblast’
+      Mykolayivs’ka Oblast’
+      Ternopil’s’ka Oblast’
+      Transcarpathia
+      Republic of Crimea
+      Kyiv
+      Kyiv City
+      Zaporizhia
+      Odessa
+      Gorod Sevastopol
+      Luhans’ka Oblast’
+    Italy
+      Abruzzo
+      Emilia-Romagna
+      Latium
+      Molise
+      Tuscany
+      Sardinia
+      Trentino-Alto Adige
+      The Marches
+      Apulia
+      Liguria
+      Piedmont
+      Campania
+      Calabria
+      Friuli Venezia Giulia
+      Basilicate
+      Umbria
+      Aosta Valley
+      Sicily
+      Lombardy
+      Veneto
+    Vatican City
+    Greece
+      Epirus
+      South Aegean
+      Central Greece
+      Mount Athos
+      West Greece
+      West Macedonia
+      Peloponnese
+      North Aegean
+      Attica
+      East Macedonia and Thrace
+      Ionian Islands
+      Central Macedonia
+      Crete
+      Thessaly
+    Liechtenstein
+      Gamprin
+      Balzers
+      Ruggell
+      Mauren
+      Vaduz
+      Planken
+      Triesen
+      Schaan
+      Triesenberg
+      Schellenberg
+      Eschen
+    Andorra
+      Ordino
+      Encamp
+      Andorra la Vella
+      Canillo
+      La Massana
+      Sant Julià de Loria
+      Escaldes-Engordany
+    Finland
+      Southern Savonia
+      North Ostrobothnia Region
+      Tampere
+      Lapland
+      Ostrobothnia Region
+      Kanta-Hame Region
+      Kymenlaakso Region
+      Paijat-Hame
+      North Karelia
+      Satakunta
+      South Karelia Region
+      North Savo
+      Kajaani Region
+      Central Finland Region
+      Uusimaa Region
+      Finland Proper
+      Central Ostrobothnia
+      South Ostrobothnia Region
+    Latvia
+      Ikšķile
+      Ķekava
+      Tērvetes Novads
+      Mērsraga Novads
+      Vaiņodes Novads
+      Priekule
+      Vecumnieku Novads
+      Varakļānu Novads
+      Dundaga
+      Nīca
+      Līgatne
+      Jelgava
+      Apes
+      Krustpils
+      Durbe
+      Vārkavas Novads
+      Jelgavas Rajons
+      Zilupes Novads
+      Liepāja
+      Aglona
+      Babīte
+      Limbažu Rajons
+      Garkalne
+      Viļakas Novads
+      Preiļi Municipality
+      Dagda
+      Viļānu Novads
+      Vecpiebalgas Novads
+      Jēkabpils
+      Alsunga
+      Rīga
+      Jēkabpils Municipality
+      Tukuma Rajons
+      Engure
+      Viesītes Novads
+      Ādaži
+      Kuldīgas Rajons
+      Grobiņa
+      Daugavpils municipality
+      Daugavpils
+      Naukšēni
+      Cesvaine
+      Beverīna
+      Alūksnes Novads
+      Koknese
+      Talsi Municipality
+      Carnikava
+      Lielvārde
+      Kocēni
+      Baldone
+      Karsava
+      Ludzas Rajons
+      Ventspils
+      Dobeles Rajons
+      Ventspils Municipality
+      Raunas Novads
+      Ķegums
+      Saldus Municipality
+      Amatas
+      Madona Municipality
+      Lecava
+      Priekuļi Municipality
+      Pļaviņu Novads
+      Pārgaujas Novads
+      Nereta
+      Aloja
+      Ozolnieku Novads
+      Ropažu Novads
+      Aizpute
+      Mārupe
+      Ogre
+      Mazsalaca
+      Krimulda
+      Pāvilostas Novads
+      Riebiņu Novads
+      Inčukalns
+      Aizkraukles Rajons
+      Mālpils
+      Jaunpiebalga
+      Rucavas Novads
+      Līvāni
+      Rojas Novads
+      Baltinava
+      Cibla
+      Salas Novads
+      Valmiera District
+      Siguldas Novads
+      Saulkrastu Novads
+      Valka Municipality
+      Ilūkste
+      Burtnieki
+      Auces
+      Rēzeknes Novads
+      Rundāles Novads
+      Ērgļi
+      Brocēni
+      Salaspils Novads
+      Rēzekne
+      Bauskas Novads
+      Aknīste
+      Strenču Novads
+      Jūrmala
+      Gulbenes Rajons
+      Jaunjelgava
+      Sējas Novads
+      Smiltenes Novads
+      Lubāna
+      Rugāju Novads
+      Skrundas Novads
+      Olaine
+      Kandava
+      Stopiņu Novads
+      Cēsu Novads
+      Krāslavas Rajons
+      Salacgrīvas Novads
+      Jaunpils
+      Skrīveru Novads
+      Balvu Novads
+      Rūjienas Novads
+  South America
+    Peru
+      Pasco
+      Ica
+      Apurimac
+      Madre de Dios
+      Ucayali
+      Junin
+      Cajamarca
+      Puno
+      Región de Huánuco
+      Lima
+      Amazonas
+      Ancash
+      Ayacucho
+      Huancavelica
+      Tumbes
+      Arequipa
+      Lima region
+      La Libertad
+      Departamento de Moquegua
+      Región de San Martín
+      Callao
+      Cusco
+      Lambayeque
+      Loreto
+      Piura
+      Tacna
+    Falkland Islands
+    Chile
+      Maule
+      Región de Los Ríos
+      Región de Arica y Parinacota
+      Región del Biobío
+      Región de la Araucanía
+      Antofagasta
+      Aysén
+      Tarapacá
+      Atacama
+      Coquimbo
+      Los Lagos
+      Región de Magallanes y de la Antártica Chilena
+      Región del Libertador General Bernardo O’Higgins
+      Región de Valparaíso
+      Santiago Metropolitan
+    Ecuador
+      Provincia del Cañar
+      Provincia del Chimborazo
+      Provincia de Sucumbíos
+      Provincia de Napo
+      Provincia del Carchi
+      Provincia de Manabí
+      Provincia de El Oro
+      Provincia de Santo Domingo de los Tsáchilas
+      Provincia del Azuay
+      Provincia de Santa Elena
+      Provincia del Guayas
+      Provincia de Imbabura
+      Provincia de Francisco de Orellana
+      Provincia de Los Ríos
+      Provincia de Morona-Santiago
+      Provincia de Esmeraldas
+      Provincia de Cotopaxi
+      Provincia de Pichincha
+      Provincia del Pastaza
+      Provincia de Loja
+      Provincia de Bolívar
+      Provincia de Zamora-Chinchipe
+      Provincia de Galápagos
+      Provincia del Tungurahua
+    Venezuela
+      Miranda
+      Nueva Esparta
+      Bolívar
+      Aragua
+      Carabobo
+      Apure
+      Anzoátegui
+      Lara
+      Trujillo
+      Falcón
+      Cojedes
+      Capital
+      Vargas
+      Dependencias Federales
+      Barinas
+      Monagas
+      Zulia
+      Guárico
+      Amazonas
+      Delta Amacuro
+      Mérida
+      Táchira
+      Portuguesa
+      Sucre
+      Yaracuy
+    Brazil
+      Goiás
+      Bahia
+      Federal District
+      Rio de Janeiro
+      Pernambuco
+      Rondônia
+      Maranhão
+      Sergipe
+      Amapá
+      Roraima
+      Espírito Santo
+      São Paulo
+      Ceará
+      Acre
+      Paraíba
+      Rio Grande do Sul
+      Alagoas
+      Santa Catarina
+      Mato Grosso
+      Tocantins
+      Paraná
+      Amazonas
+      Mato Grosso do Sul
+      Piauí
+      Rio Grande do Norte
+      Minas Gerais
+      Pará
+    Bolivia
+      El Beni
+      Departamento de Tarija
+      Departamento de Potosí
+      Oruro
+      Departamento de La Paz
+      Departamento de Santa Cruz
+      Departamento de Cochabamba
+      Departamento de Pando
+      Departamento de Chuquisaca
+    French Guiana
+      Guyane
+    Argentina
+      Neuquen
+      Santiago del Estero
+      Corrientes
+      Jujuy
+      Chubut
+      Rio Negro
+      Tucuman
+      Chaco
+      Catamarca
+      San Juan
+      Mendoza
+      Santa Fe
+      Buenos Aires F.D.
+      La Rioja
+      La Pampa
+      Tierra del Fuego
+      Buenos Aires
+      Salta
+      San Luis
+      Cordoba
+      Santa Cruz
+      Misiones
+      Entre Rios
+      Formosa
+    Colombia
+      Departamento de Sucre
+      Bogota D.C.
+      Cundinamarca
+      Departamento de Bolívar
+      Departamento de Boyacá
+      Departamento de Tolima
+      Departamento de La Guajira
+      Departamento de Santander
+      Amazonas
+      Departamento del Vaupés
+      San Andres y Providencia
+      Departamento del Caquetá
+      Departamento del Chocó
+      Departamento de Norte de Santander
+      Departamento de Caldas
+      Departamento del Guainía
+      Antioquia
+      Departamento del Cesar
+      Departamento de Nariño
+      Departamento de Arauca
+      Departamento del Vichada
+      Departamento del Putumayo
+      Departamento de Casanare
+      Departamento de Risaralda
+      Departamento del Cauca
+      Departamento del Valle del Cauca
+      Atlántico
+      Quindío Department
+      Departamento de Córdoba
+      Departamento del Meta
+      Departamento del Magdalena
+      Departamento del Huila
+      Departamento del Guaviare
+    Suriname
+      Distrikt Wanica
+      Distrikt Saramacca
+      Distrikt Nickerie
+      Distrikt Marowijne
+      Distrikt Brokopondo
+      Distrikt Coronie
+      Distrikt Commewijne
+      Distrikt Paramaribo
+      Distrikt Sipaliwini
+      Distrikt Para
+    Guyana
+      Demerara-Mahaica Region
+      Potaro-Siparuni Region
+      East Berbice-Corentyne Region
+      Mahaica-Berbice Region
+      Upper Takutu-Upper Essequibo Region
+      Pomeroon-Supenaam Region
+      Upper Demerara-Berbice Region
+      Barima-Waini Region
+      Essequibo Islands-West Demerara Region
+      Cuyuni-Mazaruni Region
+    Uruguay
+      Soriano
+      Departamento de Salto
+      Artigas
+      Canelones
+      Colonia
+      Departamento de Flores
+      Cerro Largo
+      Departamento de Montevideo
+      Departamento de Río Negro
+      Departamento de San José
+      Departamento de Paysandú
+      Lavalleja
+      Departamento de Durazno
+      Departamento de Tacuarembó
+      Florida
+      Maldonado
+      Departamento de Rocha
+      Departamento de Rivera
+      Departamento de Treinta y Tres
+    Paraguay
+      Departamento de Canindeyú
+      Departamento Central
+      Departamento de Ñeembucú
+      Departamento de Concepción
+      Departamento de Caazapá
+      Departamento de la Cordillera
+      Asunción
+      Departamento de Boquerón
+      Departamento de Presidente Hayes
+      Departamento del Alto Paraná
+      Departamento de Caaguazú
+      Departamento de Paraguarí
+      Departamento de San Pedro
+      Departamento de Misiones
+      Departamento del Guairá
+      Departamento de Itapúa
+      Departamento de Alto Paraguay
+      Departamento del Amambay
+  North America
+    Turks and Caicos Islands
+    Antigua and Barbuda
+      Barbuda
+      Parish of Saint John
+      Redonda
+      Parish of Saint George
+      Parish of Saint Peter
+      Parish of Saint Paul
+      Parish of Saint Mary
+      Parish of Saint Philip
+    Montserrat
+      Parish of Saint Anthony
+      Parish of Saint Peter
+      Parish of Saint Georges
+    Saint Martin
+    Honduras
+      Departamento de Santa Bárbara
+      Departamento de Copán
+      Departamento de Comayagua
+      Departamento de Cortés
+      Departamento de El Paraíso
+      Departamento de Valle
+      Departamento de Yoro
+      Departamento de Lempira
+      Bay Islands
+      Departamento de Colón
+      Departamento de Francisco Morazán
+      Departamento de Choluteca
+      Departamento de Intibucá
+      Departamento de La Paz
+      Departamento de Ocotepeque
+      Departamento de Gracias a Dios
+      Departamento de Olancho
+      Departamento de Atlántida
+    Bermuda
+      Warwick Parish
+      Hamilton
+      Pembroke Parish
+      Devonshire Parish
+      Hamilton city
+      Paget
+      Saint George
+      Sandys Parish
+      Smith’s Parish
+      Saint George’s Parish
+      Southampton Parish
+    British Virgin Islands
+    Grenada
+      Saint John
+      Saint Andrew
+      Saint Patrick
+      Saint Mark
+      Saint David
+      Saint George
+      Carriacou and Petite Martinique
+    Dominican Republic
+      Provincia de El Seibo
+      Provincia de Baoruco
+      Provincia de Peravia
+      Provincia de Hermanas Mirabal
+      Provincia de La Vega
+      Provincia de Santo Domingo
+      Provincia de Valverde
+      Provincia Espaillat
+      Provincia de Monte Plata
+      Provincia de Monseñor Nouel
+      Provincia de Barahona
+      Provincia de San Juan
+      Provincia Sánchez Ramírez
+      Provincia de La Romana
+      Provincia María Trinidad Sánchez
+      Provincia de San Cristóbal
+      Nacional
+      Provincia de Santiago
+      Samaná
+      Provincia de Pedernales
+      Provincia Duarte
+      Provincia de Santiago Rodríguez
+      Provincia de Monte Cristi
+      Provincia de Elías Piña
+      Puerto Plata
+      Provincia de San Pedro de Macorís
+      Provincia de Dajabón
+      Provincia de Hato Mayor
+      Provincia de La Altagracia
+      Provincia de Independencia
+      Provincia de San José de Ocoa
+      Provincia de Azua
+    Saint Barthélemy
+    Guatemala
+      Suchitepequez Department
+      Departamento de Sacatepéquez
+      Departamento de Santa Rosa
+      Departamento de Jalapa
+      Departamento de Totonicapán
+      Departamento de Izabal
+      Departamento de Chimaltenango
+      Departamento del Petén
+      Departamento de San Marcos
+      Departamento de Zacapa
+      Departamento de Escuintla
+      Departamento de Jutiapa
+      Departamento de Retalhuleu
+      Departamento de Quetzaltenango
+      Departamento de Baja Verapaz
+      Departamento de Chiquimula
+      Departamento de El Progreso
+      Departamento de Alta Verapaz
+      Departamento de Guatemala
+      Departamento de Sololá
+      Departamento del Quiché
+      Departamento de Huehuetenango
+    Anguilla
+      East End
+      Sandy Hill
+      George Hill
+      The Valley
+      South Hill
+      Sandy Ground
+      North Side
+      Island Harbour
+      Stoney Ground
+      North Hill
+      West End
+      The Quarter
+      Blowing Point
+      The Farrington
+    Trinidad and Tobago
+      Sangre Grande
+      Diego Martin
+      Chaguanas
+      City of Port of Spain
+      San Juan/Laventille
+      Penal/Debe
+      Tobago
+      Point Fortin
+      Tunapuna/Piarco
+      Borough of Arima
+      Siparia
+      City of San Fernando
+      Princes Town
+      Couva-Tabaquite-Talparo
+      Mayaro
+    U.S. Virgin Islands
+      Saint John Island
+      Saint Croix Island
+      Saint Thomas Island
+    Puerto Rico
+      Utuado Municipio
+      Salinas Municipio
+      Ceiba Municipio
+      Arecibo
+      Guayama Municipio
+      Guayanilla Municipio
+      Guaynabo Municipio
+      Ciales Municipio
+      Gurabo Municipio
+      Luquillo Municipio
+      Orocovis Municipio
+      Cidra Municipio
+      Las Marías Municipio
+      Aguadilla
+      Aguas Buenas
+      Las Piedras Municipio
+      Manatí Municipio
+      Santa Isabel Municipio
+      Comerío Municipio
+      Peñuelas Municipio
+      Municipio de Jayuya
+      Coamo Municipio
+      Hormigueros Municipio
+      Ponce Municipio
+      Trujillo Alto Municipio
+      Arroyo
+      Barranquitas
+      Naranjito Municipio
+      San Lorenzo Municipio
+      Aibonito
+      Sabana Grande Municipio
+      Villalba Municipio
+      Maunabo Municipio
+      Mayagüez Municipio
+      Lajas Municipio
+      Carolina Municipio
+      Morovis Municipio
+      Barceloneta
+      San Juan
+      Culebra Municipio
+      Fajardo Municipio
+      Municipio de Isabela
+      Cataño Municipio
+      Toa Alta Municipio
+      Municipio de Juncos
+      Cayey Municipio
+      Caguas Municipio
+      San Germán Municipio
+      Dorado Municipio
+      Toa Baja Municipio
+      Patillas Municipio
+      Cabo Rojo Municipio
+      Adjuntas
+      Añasco
+      Maricao Municipio
+      Río Grande Municipio
+      Lares Municipio
+      Vieques
+      Hatillo Municipio
+      Loíza Municipio
+      Naguabo Municipio
+      Humacao Municipio
+      Juana Díaz Municipio
+      Vega Alta Municipio
+      Bayamón Municipio
+      Florida Municipio
+      Vega Baja Municipio
+      Yabucoa Municipio
+      Yauco Municipio
+      Camuy Municipio
+      Canóvanas Municipio
+      Guánica Municipio
+      Corozal Municipio
+      San Sebastián Municipio
+      Quebradillas Municipio
+      Rincón Municipio
+      Aguada
+      Moca Municipio
+    Cayman Islands
+      Sister Island
+      Bodden Town
+      West Bay
+      East End
+      George Town
+      North Side
+    Belize
+      Cayo District
+      Orange Walk District
+      Corozal District
+      Belize District
+      Stann Creek District
+      Toledo District
+    Haiti
+      Nord
+      Sud-Est
+      Département du Nord-Est
+      Centre
+      Département de l'Artibonite
+      Département de l'Ouest
+      Grandans
+      Nord-Ouest
+      Département de Nippes
+      Sud
+    Dominica
+      Saint Peter
+      Saint Luke
+      Saint John
+      Saint David
+      Saint Patrick
+      Saint Paul
+      Saint Joseph
+      Saint Andrew
+      Saint Mark
+      Saint George
+    St Lucia
+      Canaries
+      Vieux-Fort
+      Castries
+      Laborie
+      Choiseul
+      Dennery
+      Gros-Islet
+      Anse-la-Raye
+      Micoud
+      Soufrière
+    Nicaragua
+      Departamento de Rivas
+      Departamento de Managua
+      Departamento de Chinandega
+      Departamento de Carazo
+      Departamento de Matagalpa
+      Departamento de Granada
+      North Atlantic Autonomous Region (RAAN)
+      Departamento de Chontales
+      Departamento de Madriz
+      Departamento de Boaco
+      Departamento de Masaya
+      Costa Caribe Sur
+      Departamento de León
+      Departamento de Nueva Segovia
+      Departamento de Río San Juan
+      Departamento de Estelí
+      Departamento de Jinotega
+    United States
+      Maine
+      Massachusetts
+      Connecticut
+      North Carolina
+      Minnesota
+      Pennsylvania
+      Oregon
+      Indiana
+      Utah
+      Florida
+      North Dakota
+      Alabama
+      New York
+      Wyoming
+      New Mexico
+      Mississippi
+      Montana
+      Virginia
+      Hawaii
+      Missouri
+      Michigan
+      Oklahoma
+      Iowa
+      Arizona
+      Illinois
+      Rhode Island
+      New Jersey
+      Washington, D.C.
+      Vermont
+      Maryland
+      Ohio
+      Nebraska
+      South Dakota
+      Washington
+      Delaware
+      Nevada
+      Louisiana
+      California
+      South Carolina
+      Kansas
+      Idaho
+      Colorado
+      Alaska
+      Texas
+      New Hampshire
+      Georgia
+      West Virginia
+      Tennessee
+      Arkansas
+      Kentucky
+      Wisconsin
+    St Vincent and Grenadines
+      Parish of Saint David
+      Parish of Charlotte
+      Parish of Saint George
+      Parish of Saint Patrick
+      Grenadines
+      Parish of Saint Andrew
+    Bahamas
+      South Eleuthera
+      Long Island
+      Black Point District
+      Cat Island
+      South Andros
+      Moore’s Island District
+      Central Abaco District
+      South Abaco District
+      Ragged Island District
+      Central Andros District
+      New Providence District
+      Harbour Island
+      Rum Cay
+      East Grand Bahama District
+      Crooked Island and Long Cay District
+      Inagua
+      Mayaguana District
+      West Grand Bahama District
+      Spanish Wells District
+      Central Eleuthera District
+      Bimini
+      Hope Town District
+      Acklins Island District
+      Berry Islands District
+      North Eleuthera
+      Grand Cay District
+      North Abaco District
+      San Salvador District
+      City of Freeport District
+      Exuma District
+      North Andros District
+      Mangrove Cay
+    Cuba
+      Mayabeque
+      Artemisa
+      Provincia de Cienfuegos
+      La Habana
+      Provincia de Holguín
+      Municipio Especial Isla de la Juventud
+      Provincia Granma
+      Provincia de Matanzas
+      Provincia de Pinar del Río
+      Provincia de Guantánamo
+      Provincia de Camagüey
+      Provincia de Sancti Spíritus
+      Provincia de Villa Clara
+      Las Tunas
+      Provincia de Santiago de Cuba
+      Provincia de Ciego de Ávila
+    Guadeloupe
+      Guadeloupe
+    Greenland
+      Qeqqata
+      Kujalleq
+      Qaasuitsup
+      Sermersooq
+    Barbados
+      Saint John
+      Saint Joseph
+      Saint George
+      Saint Peter
+      Saint James
+      Saint Thomas
+      Saint Andrew
+      Saint Philip
+      Saint Lucy
+      Saint Michael
+      Christ Church
+    Canada
+      Alberta
+      Quebec
+      Northwest Territories
+      British Columbia
+      New Brunswick
+      Manitoba
+      Prince Edward Island
+      Nunavut
+      Ontario
+      Nova Scotia
+      Saskatchewan
+      Yukon
+      Newfoundland and Labrador
+    St Kitts and Nevis
+      Saint George Basseterre
+      Middle Island
+      Saint Paul Charlestown
+      Christ Church Nichola Town
+      Saint Peter Basseterre
+      Saint John Figtree
+      Saint John Capesterre
+      Saint George Gingerland
+      Saint Thomas Lowland
+      Saint Mary Cayon
+      Saint James Windward
+      Trinity Palmetto Point
+      Saint Anne Sandy Point
+      Saint Paul Capesterre
+    Bonaire, Sint Eustatius, and Saba
+      Saba
+      Sint Eustatius
+      Bonaire
+    Panama
+      Guna Yala
+      Ngöbe-Buglé
+      Provincia del Darién
+      Provincia de Colón
+      Provincia de Coclé
+      Provincia de Panamá
+      Provincia de Herrera
+      Provincia de Veraguas
+      Panamá Oeste
+      Provincia de Bocas del Toro
+      Provincia de Chiriquí
+      Provincia de Los Santos
+      Emberá-Wounaan
+    Martinique
+      Martinique
+    Mexico
+      Sonora
+      Quintana Roo
+      Jalisco
+      Nuevo León
+      Guerrero
+      Aguascalientes
+      Estado de México
+      Hidalgo
+      Mexico City
+      Tlaxcala
+      Colima
+      Chiapas
+      Campeche
+      Durango
+      Veracruz
+      Michoacán
+      Zacatecas
+      Puebla
+      Chihuahua
+      Guanajuato
+      Yucatán
+      Sinaloa
+      Baja California Sur
+      Morelos
+      Querétaro
+      Oaxaca
+      Nayarit
+      Coahuila
+      San Luis Potosí
+      Estado de Baja California
+      Tamaulipas
+      Tabasco
+    Aruba
+    El Salvador
+      Departamento de La Libertad
+      Departamento de La Unión
+      Departamento de Cuscatlán
+      Departamento de Ahuachapán
+      Departamento de Morazán
+      Departamento de San Salvador
+      Departamento de Sonsonate
+      Departamento de San Vicente
+      Departamento de Chalatenango
+      Departamento de San Miguel
+      Departamento de Usulután
+      Departamento de Santa Ana
+      Departamento de Cabañas
+      Departamento de La Paz
+    Jamaica
+      Trelawny
+      Kingston
+      Hanover
+      Saint Catherine
+      Westmoreland
+      Saint James
+      Manchester
+      Clarendon
+      Parish of Saint Ann
+      St. Elizabeth
+      Saint Andrew
+      Saint Thomas
+      Saint Mary
+      Portland
+    Saint Pierre and Miquelon
+      Commune de Saint-Pierre
+      Miquelon-Langlade
+    Sint Maarten
+    Costa Rica
+      Provincia de Alajuela
+      Provincia de San José
+      Provincia de Heredia
+      Provincia de Cartago
+      Provincia de Puntarenas
+      Provincia de Limón
+      Provincia de Guanacaste
+    Curaçao
+  Asia
+    Yemen
+      Sanaa
+      Al Hudaydah
+      Muḩāfaz̧at Abyan
+      Amanat Al Asimah
+      Aden
+      Soqatra
+      Al Bayda Governorate
+      Ḩajjah
+      Raymah
+      Ibb
+      Omran
+      Shabwah
+      Şa‘dah
+      Muḩāfaz̧at Ḩaḑramawt
+      Al Jawf
+      Aḑ Ḑāli‘
+      Ta‘izz
+      Ma’rib
+      Dhamār
+      Al Mahrah
+      Al Maḩwīt
+      Laḩij
+    Taiwan
+      Taipei
+      Kaohsiung
+      Fukien
+      Taiwan
+    Indonesia
+      Central Kalimantan
+      Aceh
+      Bangka–Belitung Islands
+      West Sumatra
+      Riau Islands
+      Bali
+      South Sulawesi
+      Yogyakarta
+      Gorontalo
+      West Nusa Tenggara
+      East Nusa Tenggara
+      East Java
+      West Kalimantan
+      Maluku
+      Banten
+      Central Java
+      North Maluku
+      Papua
+      Bengkulu
+      Central Sulawesi
+      Jambi
+      Lampung
+      North Kalimantan
+      South Sumatra
+      West Papua
+      West Sulawesi
+      North Sulawesi
+      North Sumatra
+      East Kalimantan
+      Jakarta
+      West Java
+      South Kalimantan
+      Southeast Sulawesi
+      Riau
+    Sri Lanka
+      Province of Sabaragamuwa
+      North Western Province
+      Western Province
+      Central Province
+      Eastern Province
+      Province of Uva
+      Southern Province
+      Northern Province
+      North Central Province
+    Syria
+      Aleppo
+      Dimashq
+      Deir ez-Zor
+      Homs
+      Hama
+      Quneitra
+      As-Suwayda
+      Rif-dimashq
+      Al-Hasakah
+      Idlib
+      Latakia
+      Tartus
+      Daraa
+      Ar-Raqqah
+    Cocos [Keeling] Islands
+    Hong Kong
+      Sha Tin
+      Yau Tsim Mong
+      Sai Kung District
+      Kowloon City
+      Yuen Long District
+      Tuen Mun
+      Southern
+      Wong Tai Sin
+      Central and Western District
+      Sham Shui Po
+      Kwun Tong
+      Islands District
+      Eastern
+      North
+      Tai Po District
+      Tsuen Wan District
+      Kwai Tsing
+      Wan Chai
+    Laos
+      Xiangkhouang
+      Khouèng Phôngsali
+      Khouèng Oudômxai
+      Khouèng Savannakhét
+      Xaignabouli
+      Bolikhamsai
+      Bokeo
+      Khammouan
+      Louangnamtha
+      Luang Prabang Province
+      Salavan
+      Houaphan
+      Khouèng Xékong
+      Vientiane
+      Xaisomboun
+      Attapu
+      Champasak
+      Vientiane Prefecture
+    Kuwait
+      Al Asimah
+      Al Aḩmadī
+      Mubārak al Kabīr
+      Hawalli
+      Muḩāfaz̧at al Jahrā’
+      Al Farwaniyah
+    South Korea
+      Daejeon
+      Sejong-si
+      Gyeonggi-do
+      Gyeongsangbuk-do
+      Gangwon-do
+      Incheon
+      Jeollanam-do
+      Jeollabuk-do
+      Daegu
+      North Chungcheong
+      Jeju-do
+      Seoul
+      Busan
+      Gwangju
+      Gyeongsangnam-do
+      Chungcheongnam-do
+      Ulsan
+    Kazakhstan
+      Mangistauskaya Oblast’
+      East Kazakhstan
+      Almaty Qalasy
+      Qaraghandy Oblysy
+      South Kazakhstan
+      Baikonur
+      Qostanay Oblysy
+      Aqmola Oblysy
+      Qyzylorda Oblysy
+      Astana Qalasy
+      North Kazakhstan
+      Almaty Oblysy
+      Pavlodar Oblysy
+      West Kazakhstan
+      Aktyubinskaya Oblast’
+      Zhambyl Oblysy
+      Atyraū Oblysy
+    Iran
+      Ostān-e Kohgīlūyeh va Bowyer Aḩmad
+      Markazi
+      Semnān
+      Ostān-e Ardabīl
+      Ostān-e Lorestān
+      Ostān-e Khorāsān-e Jonūbī
+      Bushehr
+      Alborz
+      Ostān-e Āz̄arbāyjān-e Gharbī
+      Māzandarān
+      Ostān-e Gīlān
+      Ostān-e Qazvīn
+      Yazd
+      Ostān-e Hamadān
+      Khuzestan
+      Zanjan
+      Kerman
+      Ostān-e Khorāsān-e Shomālī
+      Ostān-e Īlām
+      Chaharmahal and Bakhtiari
+      Sistan and Baluchestan
+      Fars
+      Hormozgan
+      Razavi Khorasan
+      Ostān-e Kermānshāh
+      Ostān-e Kordestān
+      Qom
+      East Azerbaijan
+      Isfahan
+      Ostān-e Golestān
+      Ostān-e Tehrān
+    United Arab Emirates
+      Ra’s al Khaymah
+      Al Fujayrah
+      Ajman
+      Ash Shāriqah
+      Abu Dhabi
+      Umm al Qaywayn
+      Dubai
+    North Korea
+      P’yŏngan-namdo
+      Kangwŏn-do
+      Hambuk
+      P’yŏngan-bukto
+      Ryanggang
+      Pyongyang
+      Hwanghae-bukto
+      Hwanghae-namdo
+      Chagang-do
+      Rason
+      Hamnam
+    Jordan
+      Ma’an
+      Amman
+      Jerash
+      Tafielah
+      Zarqa
+      Karak
+      Madaba
+      Ajloun
+      Mafraq
+      Balqa
+      Irbid
+      Aqaba
+    British Indian Ocean Territory
+    Uzbekistan
+      Xorazm Viloyati
+      Toshkent Viloyati
+      Sirdaryo
+      Samarqand Viloyati
+      Jizzakh Province
+      Andijan
+      Qashqadaryo
+      Fergana
+      Karakalpakstan
+      Navoiy Province
+      Surxondaryo Viloyati
+      Bukhara
+      Toshkent Shahri
+      Namangan
+    Turkey
+      Hatay
+      Batman
+      Kırşehir
+      Diyarbakır
+      İzmir
+      Kırıkkale
+      Rize
+      Gümüşhane
+      Düzce
+      Elazığ
+      Adıyaman
+      Ardahan
+      Tokat
+      Zonguldak
+      Sakarya
+      Ordu
+      Aydın
+      Trabzon
+      Canakkale
+      Tunceli
+      Konya
+      Yozgat
+      Niğde
+      Bilecik
+      Şırnak
+      Sinop
+      Kahramanmaraş
+      Bartın
+      Bitlis
+      Ankara
+      Edirne
+      Ağrı
+      Siirt
+      Çorum
+      Bayburt
+      Nevşehir
+      Samsun
+      Denizli
+      Antalya
+      Kocaeli
+      Erzurum
+      Istanbul
+      Karaman
+      Çankırı
+      Giresun
+      Kastamonu
+      Muş
+      Isparta
+      Afyonkarahisar
+      Balıkesir
+      Kırklareli
+      Osmaniye
+      Adana
+      Şanlıurfa
+      Mardin
+      Kütahya
+      Malatya
+      Bursa
+      Artvin
+      Van
+      Burdur
+      Aksaray
+      Kilis
+      Tekirdağ
+      Yalova
+      Gaziantep
+      Eskişehir
+      Kayseri
+      Mersin
+      Karabük
+      Muğla
+      Sivas
+      Hakkâri
+      Uşak
+      Iğdır
+      Manisa
+      Erzincan
+      Bolu
+      Amasya
+      Kars
+      Bingöl
+    Cambodia
+      Kampong Cham Province
+      Takeo
+      Stung Treng
+      Kep
+      Pailin
+      Kampong Chhnang
+      Prey Veng
+      Kampot
+      Kratie
+      Mondolkiri
+      Pursat
+      Kampong Thom
+      Kampong Speu
+      Ratanakiri
+      Siem Reap
+      Kandal
+      Tboung Khmum
+      Banteay Meanchey
+      Preah Sihanouk
+      Battambang Province
+      Preah Vihear
+      Ŏtâr Méanchey
+      Phnom Penh
+      Koh Kong
+      Svay Rieng
+    Lebanon
+      South Governorate
+      Mohafazat Aakkâr
+      Mohafazat Baalbek-Hermel
+      Beyrouth
+      Mohafazat Béqaa
+      Mohafazat Mont-Liban
+      Mohafazat Liban-Nord
+      Mohafazat Nabatîyé
+    Myanmar [Burma]
+      Kachin State
+      Mandalay Region
+      Mon State
+      Taninthayi Region
+      Nay Pyi Taw
+      Rakhine State
+      Yangon Region
+      Kayah State
+      Kayin State
+      Sagaing Region
+      Shan State
+      Chin State
+      Ayeyawady Region
+      Magway Region
+      Bago Region
+    Philippines
+      Ilocos
+      Cordillera
+      Central Luzon
+      Western Visayas
+      Davao
+      Central Visayas
+      Bicol
+      Northern Mindanao
+      National Capital Region
+      Caraga
+      ARMM
+      Eastern Visayas
+      Negros Island Region
+      Soccsksargen
+      Mimaropa
+      Cagayan Valley
+      Zamboanga Peninsula
+      Calabarzon
+    India
+      Assam
+      Uttar Pradesh
+      Madhya Pradesh
+      Jharkhand
+      Chhattisgarh
+      Sikkim
+      West Bengal
+      Puducherry
+      Himachal Pradesh
+      Andhra Pradesh
+      Goa
+      Kerala
+      Daman and Diu
+      Karnataka
+      Odisha
+      Haryana
+      Mizoram
+      Uttarakhand
+      Andaman and Nicobar
+      Rajasthan
+      Arunachal Pradesh
+      Bihar
+      Lakshadweep
+      Kashmir
+      Gujarat
+      Tripura
+      Meghalaya
+      Maharashtra
+      Punjab
+      Dadra and Nagar Haveli
+      NCT
+      Tamil Nadu
+      Telangana
+      Chandigarh
+      Manipur
+      Nagaland
+    Saudi Arabia
+      Makkah Province
+      Tabuk
+      Hai’l Region
+      Al Bahah
+      Al Jawf
+      Al-Qassim
+      'Asir
+      Northern Borders
+      Eastern Province
+      Ar Riyāḑ
+      Al Madīnah al Munawwarah
+      Najran
+      Jizan
+    Armenia
+      Ararat
+      Yerevan
+      Tavush
+      Lori
+      Shirak
+      Armavir
+      Syunik
+      Aragatsotn
+      Kotayk
+      Vayots Dzor
+      Gegharkunik
+    Azerbaijan
+      Lankaran Rayon
+      Laçın Rayonu
+      Neftchala Rayon
+      Shamakhi Rayon
+      Yardymli Rayon
+      Shabran
+      Dashkasan Rayon
+      Jabrayil
+      Khojavend
+      Shusha
+      Qusar Rayon
+      Shirvan
+      Khizi Rayon
+      Şuşa Rayonu
+      Qazakh Rayon
+      Goygol Rayon
+      Aghsu Rayon
+      Aghdash Rayon
+      Tartar Rayon
+      Samukh Rayon
+      Lerik Rayon
+      Fizuli Rayon
+      Shaki City
+      Zaqatala Rayon
+      Kalbajar
+      Nakhichevan
+      Baku City
+      Beylagan Rayon
+      Ismayilli Rayon
+      Shamkir Rayon
+      Ujar Rayon
+      Barda Rayon
+      Goychay Rayon
+      Yevlax City
+      Ganja City
+      Gobustan Rayon
+      Goranboy Rayon
+      Zardab Rayon
+      Kurdamir Rayon
+      Astara
+      Qakh Rayon
+      Saatly Rayon
+      Oghuz Rayon
+      Absheron Rayon
+      Aghdam Rayon
+      Hajigabul Rayon
+      Quba Rayon
+      Xankandi Sahari
+      Mingacevir City
+      Naftalan City
+      Sabirabad Rayon
+      Jalilabad
+      Imishli Rayon
+      Yevlakh Rayon
+      Aghjabadi Rayon
+      Qabala Rayon
+      Masally
+      Gadabay Rayon
+      Salyan Rayon
+      Qubadli Rayon
+      Aghstafa Rayon
+      Tovuz Rayon
+      Khachmaz Rayon
+      Lankaran Sahari
+      Xocalı Rayonu
+      Siazan Rayon
+      Nakhchivan
+      Shaki Rayon
+      Sumqayit City
+      Bilasuvar Rayon
+      Balakan Rayon
+      Zangilan Rayon
+    Kyrgyzstan
+      Talas
+      Gorod Bishkek
+      Osh City
+      Naryn oblast
+      Issyk-Kul
+      Batken
+      Jalal-Abad oblast
+      Chuyskaya Oblast’
+      Osh Oblasty
+    Iraq
+      Dihok
+      Diyālá
+      Baghdad
+      Muḩāfaz̧at Nīnawá
+      Muḩāfaz̧at al Muthanná
+      Anbar
+      Muḩāfaz̧at Arbīl
+      An Najaf
+      Muḩāfaz̧at as Sulaymānīyah
+      Salah ad Din
+      Muḩāfaz̧at Karbalā’
+      Dhi Qar
+      Basra
+      Maysan
+      Muḩāfaz̧at Bābil
+      Muḩāfaz̧at al Qādisīyah
+      Kirkuk
+      Muhafazat Wasit
+    Brunei
+      Belait District
+      Temburong District
+      Brunei and Muara District
+      Tutong District
+    Bangladesh
+      Rajshahi Division
+      Mymensingh Division
+      Dhaka Division
+      Sylhet Division
+      Rangpur Division
+      Barisal Division
+      Khulna Division
+      Chittagong
+    Macao
+    China
+      Anhui
+      Liaoning
+      Yunnan
+      Jilin
+      Shandong
+      Inner Mongolia
+      Henan
+      Sichuan
+      Guizhou
+      Guangxi
+      Tianjin
+      Ningsia Hui Autonomous Region
+      Xinjiang
+      Hubei
+      Tibet
+      Jiangsu
+      Shanghai
+      Fujian
+      Hunan
+      Gansu
+      Qinghai
+      Chongqing
+      Heilongjiang
+      Jiangxi
+      Beijing
+      Shanxi
+      Hebei
+      Hainan
+      Zhejiang
+      Shaanxi
+      Guangdong
+    Mongolia
+      Govĭ-Altay Aymag
+      Central Aymag
+      Middle Govĭ
+      Uvs Aymag
+      Dzavhan Aymag
+      Arhangay Aymag
+      Hentiy Aymag
+      Orhon Aymag
+      Bayan-Ölgiy Aymag
+      Darhan-Uul Aymag
+      Selenge Aymag
+      Bulgan
+      East Gobi Aymag
+      Hövsgöl Aymag
+      Ulaanbaatar Hot
+      Sühbaatar Aymag
+      Bayanhongor Aymag
+      Övörhangay
+      Govĭ-Sumber
+      Ömnögovĭ
+      East Aimak
+      Hovd
+    Turkmenistan
+      Ahal
+      Lebap
+      Balkan
+      Ashgabat
+      Mary
+      Daşoguz Welaýaty
+    Oman
+      Northeastern Governorate
+      Musandam
+      Dhofar
+      Al Buraimi
+      Az̧ Z̧āhirah
+      Southeastern Governorate
+      Al Batinah South
+      Muscat
+      Al Batinah North
+      Ad Dakhiliyah
+      Muḩāfaz̧at al Wusţá
+    Singapore
+      North East Community Development Region
+      North West Community Development Council
+      South West Community Development Council
+      Central Singapore Community Development Council
+      South East Community Development Council
+    Japan
+      Toyama
+      Saitama
+      Tokyo
+      Nara
+      Okayama
+      Fukui
+      Ōsaka
+      Gunma
+      Akita
+      Kagoshima
+      Hiroshima
+      Chiba
+      Mie
+      Yamagata
+      Saga
+      Niigata
+      Kochi
+      Shimane
+      Nagano
+      Kanagawa
+      Nagasaki
+      Ehime
+      Shizuoka
+      Tochigi
+      Tottori
+      Hokkaido
+      Aichi
+      Fukushima
+      Tokushima
+      Kumamoto
+      Aomori
+      Ibaraki
+      Oita
+      Kyoto
+      Ishikawa
+      Wakayama
+      Hyōgo
+      Miyagi
+      Yamaguchi
+      Okinawa
+      Iwate
+      Shiga
+      Miyazaki
+      Gifu
+      Fukuoka
+      Yamanashi
+      Kagawa
+    Palestine
+      West Bank
+      Gaza Strip
+    Qatar
+      Baladīyat ad Dawḩah
+      Baladīyat Umm Şalāl
+      Al Wakrah
+      Baladīyat al Khawr wa adh Dhakhīrah
+      Baladīyat az̧ Z̧a‘āyin
+      Baladīyat ar Rayyān
+      Baladīyat ash Shamāl
+    Maldives
+      Laamu Atholhu
+      Kaafu Atoll
+      Gnyaviyani Atoll
+      Lhaviyani Atholhu
+      Haa Dhaalu Atholhu
+      Baa Atholhu
+      Thaa Atholhu
+      Gaafu Alifu Atholhu
+      Seenu Atholhu
+      Meemu Atholhu
+      Vaavu Atholhu
+      Faafu Atholhu
+      Gaafu Dhaalu Atholhu
+      Haa Alifu Atholhu
+      Noonu Atoll
+      Northern Ari Atoll
+      Raa Atoll
+      Southern Ari Atoll
+      Shaviyani Atholhu
+      Dhaalu Atholhu
+    Bahrain
+      Northern Governorate
+      Manama
+      Muharraq
+      Southern Governorate
+    Bhutan
+      Mongar
+      Samdrup Jongkhar
+      Trashi Yangste
+      Chukha
+      Pemagatshel
+      Paro
+      Zhemgang Dzongkhag
+      Wangdue Phodrang Dzongkhag
+      Bumthang Dzongkhag
+      Lhuntse
+      Haa
+      Dagana
+      Samtse Dzongkhag
+      Punakha Dzongkhag
+      Sarpang Dzongkhag
+      Trongsa Dzongkhag
+      Gasa
+      Thimphu Dzongkhag
+      Trashigang Dzongkhag
+      Tsirang Dzongkhag
+    Vietnam
+      Tỉnh Khánh Hòa
+      Tỉnh Thái Bình
+      Tỉnh Ðiện Biên
+      Tỉnh Nghệ An
+      Tỉnh Lâm Đồng
+      Tỉnh Ninh Bình
+      Tỉnh Quảng Bình
+      Tỉnh Tuyên Quang
+      An Giang
+      Tỉnh Bình Định
+      Tỉnh Tiền Giang
+      Gia Lai
+      Thành Phố Hà Nội
+      Thành Phố Hải Phòng
+      Tỉnh Bắc Giang
+      Tỉnh Ninh Thuận
+      Tỉnh Phú Thọ
+      Tỉnh Vĩnh Long
+      Tỉnh Bạc Liêu
+      Tỉnh Lai Châu
+      Tỉnh Bắc Kạn
+      Tỉnh Lạng Sơn
+      Hau Giang
+      Tỉnh Lào Cai
+      Tỉnh Bắc Ninh
+      Tỉnh Quảng Ninh
+      Tỉnh Hà Nam
+      Tỉnh Hà Giang
+      Tỉnh Hòa Bình
+      Tỉnh Thanh Hóa
+      Tỉnh Bình Thuận
+      Tỉnh Bến Tre
+      Tỉnh Bình Dương
+      Tỉnh Trà Vinh
+      Tỉnh Quảng Trị
+      Tỉnh Cao Bằng
+      Long An
+      Tỉnh Quảng Nam
+      Tỉnh Đồng Tháp
+      Ðắk Nông
+      Tỉnh Hưng Yên
+      Tỉnh Sóc Trăng
+      Tỉnh Bình Phước
+      Tỉnh Hà Tĩnh
+      Tỉnh Phú Yên
+      Tỉnh Cà Mau
+      Tỉnh Thái Nguyên
+      Thành Phố Đà Nẵng
+      Tỉnh Nam Định
+      Tỉnh Đồng Nai
+      Tỉnh Quảng Ngãi
+      Thành Phố Cần Thơ
+      Ho Chi Minh City
+      Tỉnh Bà Rịa-Vũng Tàu
+      Tỉnh Đắk Lắk
+      Kon Tum
+      Tỉnh Yên Bái
+      Tỉnh Sơn La
+      Tỉnh Tây Ninh
+      Tỉnh Hải Dương
+      Tỉnh Thừa Thiên-Huế
+      Tỉnh Vĩnh Phúc
+      Tỉnh Kiến Giang
+    Tajikistan
+      Gorno-Badakhshan
+      Viloyati Sughd
+      Dushanbe
+      Republican Subordination
+      Viloyati Khatlon
+    Israel
+      Haifa
+      Northern District
+      Tel Aviv
+      Jerusalem
+      Central District
+      Southern District
+    Thailand
+      Changwat Ang Thong
+      Changwat Nakhon Phanom
+      Changwat Phetchabun
+      Changwat Ranong
+      Changwat Buri Ram
+      Changwat Chon Buri
+      Changwat Ubon Ratchathani
+      Changwat Nakhon Ratchasima
+      Changwat Prachuap Khiri Khan
+      Changwat Sa Kaeo
+      Changwat Samut Songkhram
+      Changwat Ratchaburi
+      Changwat Sakon Nakhon
+      Changwat Kalasin
+      Changwat Sukhothai
+      Changwat Rayong
+      Changwat Samut Sakhon
+      Changwat Nakhon Pathom
+      Changwat Uthai Thani
+      Changwat Prachin Buri
+      Changwat Nakhon Nayok
+      Changwat Sara Buri
+      Changwat Yala
+      Changwat Phrae
+      Changwat Amnat Charoen
+      Changwat Nakhon Si Thammarat
+      Changwat Samut Prakan
+      Changwat Khon Kaen
+      Phuket
+      Changwat Mukdahan
+      Changwat Narathiwat
+      Changwat Nakhon Sawan
+      Changwat Nong Khai
+      Changwat Yasothon
+      Changwat Pattani
+      Bangkok
+      Chiang Mai Province
+      Changwat Pathum Thani
+      Changwat Kamphaeng Phet
+      Changwat Sing Buri
+      Changwat Phra Nakhon Si Ayutthaya
+      Changwat Chaiyaphum
+      Changwat Trang
+      Changwat Phangnga
+      Changwat Uttaradit
+      Changwat Kanchanaburi
+      Changwat Lamphun
+      Changwat Phatthalung
+      Changwat Suphan Buri
+      Changwat Nonthaburi
+      Changwat Lampang
+      Changwat Loei
+      Changwat Songkhla
+      Changwat Chai Nat
+      Changwat Chanthaburi
+      Changwat Satun
+      Changwat Surat Thani
+      Changwat Phitsanulok
+      Changwat Chiang Rai
+      Changwat Roi Et
+      Changwat Si Sa Ket
+      Changwat Trat
+      Changwat Surin
+      Changwat Bueng Kan
+      Changwat Phichit
+      Changwat Nan
+      Changwat Mae Hong Son
+      Changwat Chachoengsao
+      Changwat Lop Buri
+      Changwat Udon Thani
+      Changwat Maha Sarakham
+      Changwat Tak
+      Changwat Phetchaburi
+      Changwat Chumphon
+      Changwat Krabi
+      Changwat Phayao
+      Changwat Nong Bua Lamphu
+    Pakistan
+      FATA
+      Gilgit-Baltistan
+      Sindh Province
+      Islāmābād Capital Territory
+      Azad Kashmir
+      Balochistān
+      Khyber Pakhtunkhwa
+      Punjab
+    Georgia
+      Samegrelo and Zemo Svaneti
+      K'alak'i T'bilisi
+      Mtskheta-Mtianeti
+      Abkhazia
+      Kakheti
+      Racha-Lechkhumi and Kvemo Svaneti
+      Ajaria
+      Kvemo Kartli
+      Samtskhe-Javakheti
+      Shida Kartli
+      Imereti
+      Guria
+    Nepal
+      Far Western
+      Pāthekā
+      Eastern Region
+      Western Region
+      Central Region
+      Mid Western
+    Malaysia
+      Kedah
+      Pahang
+      Terengganu
+      Perak
+      Putrajaya
+      Kelantan
+      Perlis
+      Sarawak
+      Labuan
+      Selangor
+      Penang
+      Sabah
+      Kuala Lumpur
+      Johor
+      Negeri Sembilan
+      Melaka
+    Afghanistan
+      Kunduz
+      Badghis
+      Paktika
+      Parwan
+      Takhar
+      Faryab
+      Baghlan
+      Ghowr
+      Nangarhar
+      Farah
+      Kandahar
+      Logar
+      Oruzgan
+      Kabul
+      Kunar
+      Samangan
+      Paktia
+      Balkh
+      Nuristan
+      Nimroz
+      Bamyan
+      Khowst
+      Helmand
+      Sar-e Pul
+      Wardak
+      Jowzjan
+      Ghazni
+      Kapisa
+      Daykundi
+      Zabul
+      Herat
+      Panjshir
+      Badakhshan
+      Laghman
+  Antarctica
+    Bouvet Island
+    French Southern Territories
+      Archipel des Crozet
+      La Terre-Adélie
+      Îles Saint-Paul et Nouvelle-Amsterdam
+      Îles Éparses de l'océan Indien
+      Archipel des Kerguelen
+    South Georgia and South Sandwich Islands
+    Heard Island and McDonald Islands
+    Antarctica
+  Africa
+    Burkina Faso
+      Centre
+      Hauts-Bassins
+      Est
+      Centre-Ouest
+      Plateau-Central
+      Centre-Sud
+      Centre-Nord
+      Sahel
+      Nord
+      Sud-Ouest
+      Cascades Region
+      Centre-Est
+      Boucle du Mouhoun
+    Nigeria
+      Ondo State
+      Akwa Ibom State
+      Kwara State
+      Delta
+      Ebonyi State
+      Kano State
+      Katsina State
+      Kebbi State
+      Kogi State
+      Kaduna State
+      Borno State
+      Gombe State
+      Cross River State
+      Jigawa State
+      Anambra
+      Taraba State
+      Abia State
+      Ekiti State
+      Yobe State
+      Lagos
+      Edo
+      Zamfara State
+      Imo State
+      Bauchi
+      Enugu State
+      Osun State
+      Niger State
+      Adamawa
+      Oyo State
+      Bayelsa State
+      Rivers State
+      Sokoto State
+      Ogun State
+      Nasarawa State
+      Plateau State
+      FCT
+      Benue State
+    Mauritania
+      Adrar
+      Nouakchott Nord
+      Inchiri
+      Tagant
+      Hodh ech Chargui
+      Tiris Zemmour
+      Assaba
+      Guidimaka
+      Dakhlet Nouadhibou
+      Hodh El Gharbi
+      Nouakchott Sud
+      Brakna
+      Nouakchott Ouest
+      Gorgol
+      Wilaya du Trarza
+    Rwanda
+      Western Province
+      Kigali
+      Eastern Province
+      Southern Province
+      Northern Province
+    Seychelles
+      English River
+      Plaisance
+      Anse Royale
+      Anse Etoile
+      Grand Anse Praslin
+      Grand Anse Mahe
+      Les Mamelles
+      Glacis
+      Mont Fleuri
+      Takamaka
+      Pointe Larue
+      Beau Vallon
+      Baie Sainte Anne
+      Au Cap
+      Port Glaud
+      Mont Buxton
+      Inner Islands
+      Cascade
+      Bel Ombre
+      Saint Louis
+      Bel Air
+      Anse Boileau
+      Baie Lazare
+      Anse-aux-Pins
+      Roche Caiman
+    Egypt
+      Faiyum
+      North Sinai
+      Cairo
+      Kafr el-Sheikh
+      Matruh
+      Port Said
+      Beheira
+      Asyut
+      Ismailia
+      Alexandria
+      Gharbia
+      Monufia
+      Suez
+      Damietta
+      Giza
+      Dakahlia
+      Red Sea
+      Luxor
+      Minya
+      Sohag
+      South Sinai
+      Sharqia
+      Aswan
+      New Valley
+      Beni Suweif
+      Qena
+      Qalyubia
+    Equatorial Guinea
+      Kié-Ntem
+      Annobon
+      Centro Sur
+      Wele-Nzas
+      Bioko Sur
+      Bioko Norte
+      Litoral
+    Chad
+      Tandjilé
+      Hadjer-Lamis
+      Barh el Gazel
+      Batha
+      Ennedi-Ouest
+      Ennedi-Est
+      Logone Oriental
+      Wadi Fira
+      Lac
+      Mayo-Kebbi Ouest
+      Sila
+      N’Djaména
+      Logone Occidental
+      Ouadaï
+      Salamat
+      Borkou
+      Moyen-Chari
+      Chari-Baguirmi
+      Guéra
+      Mayo-Kebbi Est
+      Kanem
+      Tibesti
+      Mandoul
+    Ghana
+      Central Region
+      Upper West Region
+      Upper East Region
+      Ashanti Region
+      Volta Region
+      Northern Region
+      Brong-Ahafo
+      Western Region
+      Eastern Region
+      Greater Accra Region
+    Angola
+      Cuando Cobango
+      Kwanza Sul
+      Lunda Sul
+      Cabinda
+      Bengo
+      Moxico
+      Zaire
+      Bíe
+      Namibe
+      Uíge
+      Cunene
+      Malanje
+      Luanda Norte
+      Benguela
+      Huambo
+      Luanda
+      Cuanza Norte
+      Huíla
+    Swaziland
+      Hhohho District
+      Manzini District
+      Lubombo District
+      Shiselweni District
+    Tunisia
+      Gouvernorat de Mahdia
+      Gouvernorat de Jendouba
+      Gouvernorat de Sfax
+      Gouvernorat de Zaghouan
+      Gouvernorat de Sousse
+      Gouvernorat de Siliana
+      Gafsa
+      Gouvernorat de Nabeul
+      Gouvernorat de Kairouan
+      Gouvernorat de Tozeur
+      Gouvernorat de Sidi Bouzid
+      Gouvernorat de l’Ariana
+      Gouvernorat de Médenine
+      Gouvernorat de Gabès
+      Gouvernorat de Ben Arous
+      Gouvernorat de Kasserine
+      Manouba
+      Gouvernorat de Bizerte
+      Gouvernorat de Béja
+      Gouvernorat de Kef
+      Gouvernorat de Kébili
+      Gouvernorat de Tunis
+      Tataouine
+      Gouvernorat de Monastir
+    DR Congo
+      Nord Kivu
+      Tshopo
+      Ituri
+      Kasai
+      South Kivu
+      Sankuru
+      Kasaï-Central
+      Mongala
+      Province du Sud-Ubangi
+      Bas Uele
+      Kwilu
+      Tshuapa
+      Lualaba
+      Kwango
+      Mai Ndombe
+      Haut Uele
+      Tanganika
+      Haut-Lomani
+      Lomami
+      Maniema
+      Équateur
+      Province du Haut-Katanga
+      Province du Nord-Ubangi
+      Kinshasa
+      Bas-Congo
+      Kasaï-Oriental
+    Zimbabwe
+      Manicaland
+      Matabeleland North
+      Masvingo Province
+      Bulawayo
+      Matabeleland South Province
+      Harare
+      Mashonaland Central
+      Mashonaland West
+      Mashonaland East Province
+      Midlands Province
+    Sierra Leone
+      Eastern Province
+      Northern Province
+      Southern Province
+      Western Area
+    Sudan
+      Southern Darfur
+      Central Darfur
+      Western Kordofan
+      River Nile
+      Al Jazīrah
+      North Kordofan
+      Khartoum
+      Blue Nile State
+      Al Qaḑārif
+      Southern Kordofan
+      The Northern State
+      Northern Darfur
+      Kassala
+      Western Darfur
+      Eastern Darfur
+      White Nile
+      Red Sea State
+      Sinnār
+    Somalia
+      Banaadir
+      Bari
+      Sanaag
+      Shabeele Dhexe Region
+      Bay
+      Galguduud
+      Gedo
+      Jubbada Hoose Region
+      Lower Shabeelle
+      Middle Juba
+      Woqooyi Galbeed
+      Mudug
+      Awdal
+      Bakool
+      Sool
+      Nugaal
+      Hiiraan
+      Togdheer
+    Libya
+      Murzuq
+      Sha‘bīyat al Jafārah
+      Al Jufrah
+      Darnah
+      Sha‘bīyat al Wāḩāt
+      Sha‘bīyat al Jabal al Akhḑar
+      Al Marqab
+      Jabal al Gharbi
+      Sha‘bīyat Banghāzī
+      Sha‘bīyat Sabhā
+      Sha‘bīyat az Zāwiyah
+      Al Kufrah
+      Sha‘bīyat Ghāt
+      Surt
+      Sha‘bīyat Wādī ash Shāţi’
+      Sha‘bīyat Mişrātah
+      Sha‘bīyat an Nuqāţ al Khams
+      Sha‘bīyat Wādī al Ḩayāt
+      Tripoli
+      Al Marj
+      Sha‘bīyat al Buţnān
+      Sha‘bīyat Nālūt
+    Uganda
+      Northern Region
+      Western Region
+      Central Region
+      Eastern Region
+    Kenya
+      Kericho
+      Taita Taveta
+      Kitui
+      Embu
+      Murang'A
+      West Pokot
+      Samburu
+      Nandi
+      Mandera
+      Trans Nzoia
+      Kwale
+      Nyamira
+      Baringo
+      Kirinyaga
+      Meru
+      Nakuru
+      Garissa
+      Kisumu
+      Narok
+      Migori
+      Homa Bay
+      Kakamega
+      Kajiado
+      Turkana
+      Bungoma
+      Mombasa
+      Tana River
+      Kiambu
+      Kilifi
+      Laikipia
+      Nairobi
+      Kisii
+      Siaya
+      Vihiga
+      Marsabit
+      Nyeri
+      Tharaka - Nithi
+      Isiolo
+      Bomet
+      Elegeyo-Marakwet
+      Makueni
+      Uasin Gishu
+      Machakos
+      Busia
+      Lamu
+      Nyandarua
+      Wajir
+    Guinea-Bissau
+      Oio Region
+      Tombali
+      Bolama Region
+      Cacheu Region
+      Bafatá
+      Gabú
+      Biombo
+      Quinara
+      Bissau
+    South Sudan
+      Northern Liech
+      Maridi
+      Northern Upper Nile
+      Lol
+      Amadi State
+      Boma
+      Aweil
+      Jubek
+      Latjoor
+      Aweil East
+      Jonglei
+      Bieh
+      Eastern Lakes
+      Fashoda
+      Western Lakes
+      Gbudwe
+      Tonj
+      Twic
+      Kapoeta
+      Wau
+      Gok
+      Imatong
+      Fangak
+      Akobo
+      Central Upper Nile
+      Yei River
+      Ruweng
+      Tambura
+      Maiwut
+      Terekeka
+      Southern Liech
+      Gogrial
+    Gambia
+      Banjul
+      West Coast
+      Central River
+      Upper River
+      North Bank
+      Lower River
+    Algeria
+      Tipaza
+      Ouargla
+      Guelma
+      Mostaganem
+      Béjaïa
+      Jijel
+      Tindouf
+      El Bayadh
+      Relizane
+      Naama
+      Tissemsilt
+      Tamanrasset
+      Sidi Bel Abbès
+      Souk Ahras
+      Boumerdes
+      Illizi
+      Chlef
+      Constantine
+      Biskra
+      Mila
+      Béchar
+      Ghardaia
+      El Tarf
+      Djelfa
+      Aïn Témouchent
+      Blida
+      Oran
+      Tiaret
+      Algiers
+      Laghouat
+      Saida
+      Bordj Bou Arréridj
+      Tlemcen
+      Mascara
+      Adrar
+      Batna
+      Skikda
+      Annaba
+      Tizi Ouzou
+      Bouira
+      Tébessa
+      Oum el Bouaghi
+      Sétif
+      El Oued
+      Medea
+      M'Sila
+      Aïn Defla
+      Khenchela
+    South Africa
+      Limpopo
+      Province of North West
+      Mpumalanga
+      Orange Free State
+      Western Cape
+      Gauteng
+      Eastern Cape
+      KwaZulu-Natal
+      Northern Cape
+    Mauritius
+      Rodrigues
+      Port Louis District
+      Grand Port District
+      Agalega Islands
+      Black River District
+      Rivière du Rempart District
+      Pamplemousses District
+      Savanne District
+      Plaines Wilhems District
+      Flacq District
+      Cargados Carajos
+      Moka District
+    Madagascar
+      Androy Region
+      Vakinankaratra Region
+      Anosy Region
+      Analanjirofo Region
+      Vatovavy Fitovinany Region
+      Diana Region
+      Atsinanana Region
+      Upper Matsiatra
+      Betsiboka Region
+      Boeny Region
+      Menabe Region
+      Bongolava Region
+      Alaotra Mangoro Region
+      Ihorombe Region
+      Atsimo-Atsinanana
+      Analamanga Region
+      Amoron'i Mania Region
+      Itasy Region
+      Atsimo-Andrefana Region
+      Melaky Region
+      Sofia Region
+      Sava Region
+    Mayotte
+      Koungou
+      Sada
+      Chiconi
+      Pamandzi
+      M'Tsangamouji
+      Bouéni
+      Chirongui
+      Ouangani
+      Bandrele
+      Acoua
+      Bandraboua
+      Dembeni
+      Mamoudzou
+      Mtsamboro
+      Tsingoni
+      Kani-Kéli
+      Dzaoudzi
+    Benin
+      Littoral
+      Ouémé
+      Plateau
+      Atakora
+      Collines
+      Kouffo
+      Donga
+      Mono
+      Alibori
+      Zou
+      Borgou
+      Atlantique
+    Lesotho
+      Thaba-Tseka
+      Qacha’s Nek
+      Mafeteng District
+      Butha-Buthe
+      Leribe
+      Berea
+      Maseru
+      Mokhotlong
+      Mohale’s Hoek District
+      Quthing
+    Western Sahara
+    Niger
+      Diffa
+      Maradi
+      Dosso Region
+      Niamey
+      Agadez
+      Zinder
+      Tahoua
+      Tillaberi Region
+    Zambia
+      Copperbelt
+      Eastern Province
+      North-Western Province
+      Western Province
+      Northern Province
+      Muchinga
+      Central Province
+      Southern Province
+      Luapula Province
+      Lusaka Province
+    Congo
+      Plateaux
+      Kouilou
+      Cuvette
+      Bouenza
+      Likouala
+      Niari
+      Brazzaville
+      Pointe-Noire
+      Cuvette-Ouest
+      Pool
+      Lékoumou
+      Sangha
+    Botswana
+      Kgalagadi
+      North-West
+      Ngwaketsi
+      Central
+      North-East
+      South-East
+      Kgatleng
+      Ghanzi
+      Kweneng
+    Senegal
+      Louga
+      Région de Sédhiou
+      Kaolack
+      Dakar
+      Diourbel
+      Région de Thiès
+      Tambacounda
+      Kolda
+      Région de Kaffrine
+      Fatick
+      Région de Kédougou
+      Saint-Louis
+      Matam
+      Ziguinchor
+    Cameroon
+      North-West
+      East
+      Adamaoua
+      West
+      Littoral
+      South-West
+      North
+      Centre
+      Far North
+      South
+    Mali
+      Kidal
+      Ségou
+      Koulikoro
+      Gao
+      Kayes
+      Tombouctou
+      Bamako Region
+      Sikasso
+      Mopti
+    Gabon
+      Woleu-Ntem
+      Ogooué-Ivindo
+      Estuaire
+      Moyen-Ogooué
+      Ogooué-Maritime
+      Haut-Ogooué
+      Ogooué-Lolo
+      Ngouni
+      Nyanga
+    Morocco
+      Fès-Meknès
+      Marrakesh-Safi
+      Rabat-Salé-Kénitra
+      Oriental
+      Drâa-Tafilalet
+      Casablanca-Settat
+      Dakhla-Oued Ed-Dahab
+      Laâyoune-Sakia El Hamra
+      Guelmim-Oued Noun
+      Béni Mellal-Khénifra
+      Souss-Massa
+      Tanger-Tetouan-Al Hoceima
+    Namibia
+      Zambezi Region
+      Erongo
+      Kavango East
+      Khomas
+      Omaheke
+      Oshana
+      Omusati
+      Kavango West
+      Hardap
+      Kunene
+      Otjozondjupa
+      Ohangwena
+      Karas
+      Oshikoto
+    Ivory Coast
+      Vallée du Bandama
+      Woroba
+      Comoé
+      Sassandra-Marahoué
+      Denguélé
+      Zanzan
+      Abidjan
+      Bas-Sassandra
+      Lacs
+      Savanes
+      Lagunes
+      Yamoussoukro Autonomous District
+      Gôh-Djiboua
+      Montagnes
+    Liberia
+      Grand Cape Mount County
+      Gbarpolu County
+      Nimba County
+      Margibi County
+      River Cess County
+      Grand Kru County
+      Bong County
+      Maryland County
+      River Gee County
+      Sinoe County
+      Bomi County
+      Montserrado County
+      Lofa County
+      Grand Gedeh County
+      Grand Bassa County
+    Burundi
+      Kirundo
+      Ngozi
+      Mwaro
+      Kayanza
+      Bururi
+      Bujumbura Rural
+      Cibitoke
+      Rumonge
+      Ruyigi
+      Rutana
+      Cankuzo
+      Karuzi
+      Bubanza
+      Bujumbura Mairie
+      Gitega
+      Muyinga
+      Makamba
+      Muramvya
+    Guinea
+      Mamou Region
+      Nzerekore Region
+      Labé Region
+      Kankan Region
+      Conakry Region
+      Faranah
+      Boke Region
+      Kindia
+    Central African Republic
+      Haut-Mbomou
+      Bamingui-Bangoran
+      Mbomou
+      Basse-Kotto
+      Ouaka
+      Haute-Kotto
+      Nana-Grébizi
+      Ouham
+      Kémo
+      Ombella-M'Poko
+      Bangui
+      Ouham-Pendé
+      Sangha-Mbaéré
+      Nana-Mambéré
+      Vakaga
+      Lobaye
+      Mambéré-Kadéï
+    Comoros
+      Ndzuwani
+      Mohéli
+      Grande Comore
+    Ethiopia
+      Tigray
+      Bīnshangul Gumuz
+      Harari
+      Gambela
+      Somali
+      Dire Dawa
+      Āfar
+      Addis Ababa
+      Oromiya
+      Amhara
+      SNNPR
+    Saint Helena
+      Saint Helena
+      Ascension
+      Tristan da Cunha
+    Djibouti
+      Tadjourah
+      Dikhil
+      Djibouti
+      Ali Sabieh
+      Obock
+      Arta
+    Mozambique
+      Província de Zambézia
+      Tete
+      Inhambane Province
+      Maputo
+      Niassa Province
+      Cabo Delgado Province
+      Manica Province
+      Nampula
+      Cidade de Maputo
+      Gaza Province
+      Sofala Province
+    Tanzania
+      Zanzibar Urban/West
+      Tabora
+      Ruvuma
+      Dar es Salaam Region
+      Mara
+      Kilimanjaro
+      Rukwa
+      Tanga
+      Shinyanga
+      Njombe
+      Lindi
+      Pemba North
+      Mbeya
+      Simiyu
+      Kigoma
+      Geita
+      Iringa
+      Dodoma
+      Zanzibar North
+      Mwanza
+      Manyara
+      Kagera
+      Pemba South
+      Pwani
+      Morogoro
+      Katavi
+      Singida
+      Mtwara
+      Zanzibar Central/South
+      Arusha
+    Réunion
+      Réunion
+    Togo
+      Maritime
+      Kara
+      Savanes
+      Plateaux
+      Centrale
+    Malawi
+      Southern Region
+      Northern Region
+      Central Region
+    São Tomé and Príncipe
+      São Tomé Island
+      Príncipe
+    Eritrea
+      Gash-Barka
+      Debub
+      Maekel
+      Southern Red Sea
+      Northern Red Sea
+      Anseba
+    Cabo Verde
+      Brava
+      Praia
+      Porto Novo
+      Paul
+      São Miguel
+      Ribeira Grande de Santiago
+      Tarrafal
+      Maio
+      Ribeira Brava
+      São Filipe
+      Tarrafal de São Nicolau
+      Ribeira Grande
+      Mosteiros
+      Santa Cruz
+      São Domingos
+      São Lourenço dos Órgãos
+      Santa Catarina
+      São Salvador do Mundo
+      São Vicente
+      Sal
+      Boa Vista
+      Santa Catarina do Fogo
+  Oceania
+    Tuvalu
+      Nanumanga
+      Vaitupu
+      Nukulaelae
+      Funafuti
+      Niutao
+      Nui
+      Nanumea
+      Nukufetau
+    Territory of Ashmore and Cartier Islands
+    Guam
+      Talofofo Municipality
+      Piti Municipality
+      Umatac
+      Mangilao
+      Hagatna
+      Sinajana Municipality
+      Barrigada
+      Santa Rita Municipality
+      Inarajan
+      Tamuning
+      Yigo
+      Asan
+      Chalan Pago-Ordot
+      Mongmong-Toto-Maite Municipality
+      Merizo Municipality
+      Agat
+      Agana Heights
+      Yona
+      Dededo
+    French Polynesia
+      Leeward Islands
+      Îles Marquises
+      Îles Australes
+      Îles du Vent
+      Îles Tuamotu-Gambier
+    East Timor
+      Viqueque
+      Manufahi
+      Manatuto
+      Díli
+      Bobonaro
+      Liquiçá
+      Aileu
+      Cova Lima
+      Oecusse
+      Ainaro
+      Lautém
+      Ermera
+      Baucau
+    Norfolk Island
+    Samoa
+      Aiga-i-le-Tai
+      Gagaifomauga
+      Fa‘asaleleaga
+      Satupa‘itea
+      A'ana
+      Gaga‘emauga
+      Va‘a-o-Fonoti
+      Tuamasaga
+      Atua
+      Vaisigano
+      Palauli
+    Niue
+    New Caledonia
+      South Province
+      North Province
+      Loyalty Islands
+    Nauru
+      Boe
+      Ewa
+      Yaren
+      Baiti
+      Aiwo
+      Ijuw
+      Meneng
+      Nibok
+      Anetan
+      Denigomodu
+      Anibare
+      Uaboe
+      Buada
+      Anabar
+    Australia
+      Tasmania
+      New South Wales
+      South Australia
+      Western Australia
+      Victoria
+      Northern Territory
+      Queensland
+      ACT
+    Northern Mariana Islands
+      Rota
+      Tinian
+      Saipan
+      Northern Islands
+    Tokelau
+      Fakaofo
+      Atafu
+      Nukunonu
+    U.S. Minor Outlying Islands
+      Baker Island
+      Midway Islands
+      Jarvis Island
+      Kingman Reef
+      Johnston Atoll
+      Navassa Island
+      Wake Island
+      Palmyra Atoll
+      Howland Island
+    Tonga
+      Niuas
+      Vava‘u
+      Ha‘apai
+      Tongatapu
+      ʻEua
+    Christmas Island
+    Palau
+      State of Ngiwal
+      Hatohobei
+      State of Koror
+      State of Angaur
+      State of Ngeremlengui
+      State of Aimeliik
+      State of Ngchesar
+      State of Ngaraard
+      State of Ngardmau
+      State of Airai
+      State of Ngarchelong
+      State of Kayangel
+      State of Peleliu
+      State of Ngatpang
+      State of Sonsorol
+      State of Melekeok
+    Cook Islands
+    Coral Sea Islands Territory
+    Pitcairn Islands
+    Papua New Guinea
+      Southern Highlands Province
+      West Sepik Province
+      Milne Bay Province
+      Western Province
+      Gulf Province
+      Western Highlands Province
+      Enga Province
+      West New Britain Province
+      Northern Province
+      Bougainville
+      National Capital
+      Jiwaka
+      Hela
+      Central Province
+      New Ireland
+      Madang Province
+      Eastern Highlands Province
+      East New Britain Province
+      East Sepik Province
+      Chimbu Province
+      Manus Province
+      Morobe Province
+    Wallis and Futuna
+      Alo
+      Uvéa
+      Sigave
+    Jervis Bay Territory
+    American Samoa
+    Marshall Islands
+      Jaluit Atoll
+      Wotje Atoll
+      Enewetak Atoll
+      Lib Island
+      Kwajalein Atoll
+      Wotho Atoll
+      Utrik Atoll
+      Ujelang Atoll
+      Jabat Island
+      Ailinginae Atoll
+      Likiep Atoll
+      Lae Atoll
+      Majuro Atoll
+      Jemo Island
+      Ailuk Atoll
+      Kili Island
+      Ailinglaplap Atoll
+      Mili Atoll
+      Namdrik Atoll
+      Namu Atoll
+      Arno Atoll
+      Maloelap Atoll
+      Bikar Atoll
+      Aur Atoll
+      Ujae Atoll
+      Ebon Atoll
+      Bikini Atoll
+      Mejit Island
+      Taka Atoll
+      Erikub Atoll
+      Rongelap Atoll
+      Rongrik Atoll
+      Bokak Atoll
+    Vanuatu
+      Penama Province
+      Shefa Province
+      Malampa Province
+      Tafea Province
+      Sanma Province
+      Torba Province
+    Micronesia
+      State of Chuuk
+      State of Kosrae
+      State of Pohnpei
+      State of Yap
+    Solomon Islands
+      Choiseul
+      Rennell and Bellona
+      Guadalcanal Province
+      Western Province
+      Makira-Ulawa Province
+      Malaita Province
+      Temotu Province
+      Honiara
+      Isabel Province
+      Central Province
+    Fiji
+      Central
+      Western
+      Northern
+      Eastern
+      Rotuma
+    New Zealand
+      Canterbury
+      Manawatu-Wanganui
+      Wellington
+      Chatham Islands
+      Hawke's Bay
+      Gisborne
+      Waikato
+      West Coast
+      Auckland
+      Bay of Plenty
+      Taranaki
+      Marlborough
+      Nelson
+      Northland
+      Southland
+      Tasman
+      Otago
+    Kiribati
+      Gilbert Islands
+      Phoenix Islands
+      Line Islands
+Num countries : 250, num states: 3874
