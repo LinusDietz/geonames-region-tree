@@ -61,7 +61,7 @@ class GeonamesAPI:
 
     def reverse_region(self, point: Coordinate) -> str:
 
-        raw_dict = self.call_geonames(f"countrySubdivision?lat={point.latitude}&lng={point.longitude}&username={self.user}")
+        raw_dict = self.call_geonames(f"countrySubdivision?lat={point.lat}&lng={point.lng}&username={self.user}")
         try:
             return raw_dict['geonames']['countrySubdivision']['adminName1']
         except KeyError:
@@ -72,7 +72,7 @@ class GeonamesAPI:
                 return None
 
     def reverse_region_geoname_id(self, point: Coordinate) -> int:
-        raw_dict = self.call_geonames(f"countrySubdivision?lat={point.latitude}&lng={point.longitude}&username={self.user}")
+        raw_dict = self.call_geonames(f"countrySubdivision?lat={point.lat}&lng={point.lng}&username={self.user}")
 
         try:
             return self.geoname_id_of_region(raw_dict['geonames']['countrySubdivision']['adminName1'])

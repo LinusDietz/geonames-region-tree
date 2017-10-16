@@ -3,7 +3,8 @@ import os
 import unittest
 
 from geonames_api.geonames_api import GeonamesAPI
-from geonames_api.model.region import Region, Coordinate
+from geonames_api.model.coordinate import Coordinate
+from geonames_api.model.region import Region
 from regiontree.region_tree import RegionTree
 
 api = GeonamesAPI(0.1, logging, os.environ['GEONAMES_KEY'])

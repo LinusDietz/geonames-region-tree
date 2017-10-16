@@ -1,5 +1,6 @@
 from geonames_api.geonames_api import GeonamesAPI
-from geonames_api.model.region import Region, Coordinate
+from geonames_api.model.coordinate import Coordinate
+from geonames_api.model.region import Region
 
 
 class RegionTree:

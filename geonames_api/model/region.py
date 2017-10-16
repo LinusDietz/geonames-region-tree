@@ -1,11 +1,7 @@
 import functools
 import operator
 
-
-class Coordinate:
-    def __init__(self, lat: float, lng: float):
-        self.latitude = lat
-        self.longitude = lng
+from geonames_api.model.coordinate import Coordinate
 
 
 class Region:
@@ -20,7 +16,7 @@ class Region:
         return self.name
 
     def __repr__(self):
-        return "Region #%d: %s (%s) at (%s, %s) " % (self.geoname_id, self.name, self.toponym_name, self.position.latitude, self.position.longitude)
+        return "Region #%d: %s (%s) at (%s, %s) " % (self.geoname_id, self.name, self.toponym_name, self.position.lat, self.position.lng)
 
     def add_children(self, region):
         self.children.add(region)
