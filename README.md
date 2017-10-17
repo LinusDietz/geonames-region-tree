@@ -13,9 +13,7 @@ At the time of this writing it returned 7 continents, 250 countries and 3874 fed
 
 ## Usage
 
-The usage is intended to be as a library, the main class is [`regiontree.region_tree.RegionTree`](regiontree/region_tree.py).
-
-
+The usage is intended to be as a library.
 
 ## License
 
