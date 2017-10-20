@@ -1,6 +1,6 @@
 # Region Tree of the World
 
-[![Build Status](https://travis-ci.com/lynyus/geonames-region-tree.svg?token=3xSpCxqKzHnH2NXbgTwq&branch=master)](https://travis-ci.com/lynyus/geonames-region-tree)
+[![Build Status](https://travis-ci.org/lynyus/geonames-region-tree.svg?branch=master)](https://travis-ci.org/lynyus/geonames-region-tree)
 [![Dependency Status](https://www.versioneye.com/user/projects/59a01799368b08003f17277e/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/59a01799368b08003f17277e)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d8d949fa71ee4d188f1f97b58efcfff9)](https://www.codacy.com/app/lynyus/geonames-region-tree?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=lynyus/geonames-region-tree&amp;utm_campaign=Badge_Grade)
 [![Codacy Badge](https://api.codacy.com/project/badge/Coverage/d8d949fa71ee4d188f1f97b58efcfff9)](https://www.codacy.com/app/lynyus/geonames-region-tree?utm_source=github.com&utm_medium=referral&utm_content=lynyus/geonames-region-tree&utm_campaign=Badge_Coverage)
